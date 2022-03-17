@@ -1,5 +1,5 @@
 ---
-description: About build3, current project status, and road map.
+description: The build3 blockchain secures the construction network.
 cover: .gitbook/assets/Black on White.png
 coverY: -634.7498655190963
 ---
