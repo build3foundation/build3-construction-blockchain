@@ -23,3 +23,4 @@ This protocol is all possible due to the recent breakthroughs in blockchain tech
 The build3 foundation believes that failing to close the gap between the virtual and built environments fails to fulfill our obligation to hold paramount the public's safety, health, and welfare in our professional duties. \
 ​\
 All work of the build3 foundation will be made open-source for use in securing the safety, health, welfare of the public.&#x20;
+
