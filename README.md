@@ -10,17 +10,17 @@ The engineering and construction industry has taken some steps towards modernizi
 
 ## Who We Are
 
-We are engineers, architects, mathematicians, organizations, businesses, and other professionals. We are tenants, landlords, lawyers, insurers, investors, contractors, marketers. We are anyone who interacts with buildings in any form.
+We are engineers, architects, mathematicians, organizations, businesses, and other professionals. We are tenants, landlords, lawyers, insurers, investors, contractors, marketers. We are anyone who interacts with buildings in any form and bear the responsibility and liability for the safety and welfare of a building's inhabitants.
 
-Until recently, there has been no way to verify the authorship, ownership, and authenticity of any digital works produced. This ambiguity in proof of authorship is of particular concern in an industry which relies heavily on professional supervision (entirely in a digital world) of creating buildings and machines (entirely in the physical world).&#x20;
+We are in an industry that requires professional supervision in the digital world to administer the building of physical structures. There should be no ambiguity regarding the authorship, ownership and authenticity of the documents used to build.
 
-The increasingly divergent digital and physical worlds in the construction industry pose a risk to public safety, health, and welfare. The ethical codes of our industry obliged us to secure that network.
+The increasingly divergent digital and physical worlds in the construction industry pose a risk to public safety, health, and welfare. We have an ethical and practical obligation to ensure that the network in which these documents are produced, released, and distributed is secured.
 
-The work of build3 foundation includes a proof of concept protocol demonstrating the means to secure our building network for the first time in our industry since the dawn of the digital age. Doing so means that, by extension, this new protocol secures building occupants (public safety, health, and welfare).&#x20;
+build3 Foundation has developed a proof of concept protocol to demonstrate how to secure the digital foundation of the built world, and subsequently secure public safety, health and welfare.
 
 This protocol is all possible due to the recent breakthroughs in blockchain technology, most notably the work of the [Web3 Foundation](https://web3.foundation)[ ](https://web3.foundation)and [Dr. Gavin Wood,](https://en.wikipedia.org/wiki/Gavin\_Wood) who released [this paper](https://polkadot.network/PolkaDotPaper.pdf).​
 
-The build3 foundation believes that failing to close the gap between the virtual and built environments fails to fulfill our obligation to hold paramount the public's safety, health, and welfare in our professional duties. \
+Bridging the gap between the virtual and built environments is absolutely essential to fulfill our professional and human obligation to the public's safety, health, and welfare.\
 ​\
-All work of the build3 foundation will be made open-source for use in securing the safety, health, welfare of the public.&#x20;
+All work of the build3 foundation will be made open-source. Our responsibility is shared, and progress relies on cooperation.
 
