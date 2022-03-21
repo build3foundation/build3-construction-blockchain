@@ -7,18 +7,18 @@ layout: editorial
 
 # 🫔 Proof of Supervision with Blockchain
 
-## Collective (Licensing Boards, Working Groups)
+## Licensing Boards and Working Groups
 
 {% content-ref url="../build3-development-docs/prebuilt-pallets/collective.md" %}
 [collective.md](../build3-development-docs/prebuilt-pallets/collective.md)
 {% endcontent-ref %}
 
-Allows a set of account IDs to raise proposals, motion to vote, vote, and execute proposals. This might be useful for committees within organizations for planning and approving budgets, proposing new standards, etc.
+The licensing boards will be constructed from the `collective` pallet.&#x20;
+
+We will also introduce a `workding group` technical committee. Working groups define the standard of care for each category of work on the network.&#x20;
 
 {% hint style="info" %}
-## Board of Directors
-
-**Scope\<License Registrar::Virginia>**
+## Licensing Board
 
 ## Objective
 
@@ -49,18 +49,18 @@ It is the responsibility of the working group to establish a minimum standard of
 &#x20;
 {% endhint %}
 
-## Identity (The License)
+## Professional Engineering License
 
 {% content-ref url="../build3-development-docs/prebuilt-pallets/identity.md" %}
 [identity.md](../build3-development-docs/prebuilt-pallets/identity.md)
 {% endcontent-ref %}
 
-This `Pallet` allows a user to put forth a proposed identity and ask for a review by any number of registrars.&#x20;
+The professional engineering license is modeled using the `identity` pallet. This pallet allows a user to put forth a proposed identity and ask for a review by any number of registrars.&#x20;
 
 ![Example Identity Records Representing a Professional and their Active Licensure Authority](../.gitbook/assets/engineer\_license\_example\_2.png)
 
 {% hint style="info" %}
-## Credential Registry
+## License Application and Issuance
 
 An engineering board of directors may become a registrar on the network.&#x20;
 
@@ -75,19 +75,13 @@ When applying for a license, a user creates an account and adds it as a sub-acco
 Once the license (sub identity) is approved, the engineer uses this license address to seal drawings.
 {% endhint %}
 
-{% content-ref url="../build3-development-docs/prebuilt-pallets/membership.md" %}
-[membership.md](../build3-development-docs/prebuilt-pallets/membership.md)
-{% endcontent-ref %}
-
-Members of the standards of care committee are added and removed through this pallet.&#x20;
-
-## Contract (Construction Documents)
+## Professional Supervision Record
 
 {% content-ref url="../build3-development-docs/prebuilt-pallets/contracts.md" %}
 [contracts.md](../build3-development-docs/prebuilt-pallets/contracts.md)
 {% endcontent-ref %}
 
-Using this `Pallet` would allow general smart contracts to deploy into the framework between parties.
+The `contracts` pallet allows for the distribution of generic smart contracts which deploy into the blockchain and represent the professional interactions for each licensed activity on the network.
 
 {% hint style="warning" %}
 ## Construction Document Records
@@ -202,7 +196,7 @@ The community itself could check on the implemented standards of care and any vi
 _example: PermitZIP requires checklists as part of the process for every project, every deliverable. If the reviewer `Validated` a design without completing the checklist, this would be an `Offence`._
 {% endhint %}
 
-## Recovery (of Stolen or Lost License)
+## Recovering Lost of Stolen Licenses
 
 {% content-ref url="../build3-development-docs/prebuilt-pallets/recovery.md" %}
 [recovery.md](../build3-development-docs/prebuilt-pallets/recovery.md)
