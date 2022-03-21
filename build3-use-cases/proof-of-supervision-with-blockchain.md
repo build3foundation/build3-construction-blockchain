@@ -160,18 +160,18 @@ A user submits files (or links to files) to check their authenticity. The off-ch
 
 [Documentation](https://docs.substrate.io/how-to-guides/v3/ocw/local-storage/) on how to implement.
 
-## Multisig
+## Cross-Discipline Authorization
 
 {% content-ref url="../build3-development-docs/prebuilt-pallets/multisig.md" %}
 [multisig.md](../build3-development-docs/prebuilt-pallets/multisig.md)
 {% endcontent-ref %}
 
-A module for doing multi-signature dispatches.
+Creates an origin that requires multiple parties to sign before authorizing a transaction.&#x20;
 
-{% hint style="warning" %}
-### Enforcing Standard of Process for Construction Documentation
+{% hint style="info" %}
+### Project Kick-Off
 
-This could be used to optionally enforce multi-signature dispatches of construction documents to ensure there has been a minimum standard of process (design, reviewer, engineer all stamp the document before it can be final).
+Kicking off a project may require a signature from the sales member as well as from the tehcnical director confirming all requirements are met for kicking the project off.
 {% endhint %}
 
 ## Offenses
