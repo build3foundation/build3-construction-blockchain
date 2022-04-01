@@ -7,6 +7,7 @@
 * [🎯 How Blockchain Protects Public Safety](build3-overview/how-blockchain-protects-public-safety/README.md)
   * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
   * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
+* [📢 List of Proposed Publications](build3-overview/list-of-proposed-publications.md)
 
 ## Build3 Use Cases
 
