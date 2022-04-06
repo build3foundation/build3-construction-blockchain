@@ -59,6 +59,6 @@ The number is staggering: each engineer represents something in the order **of 2
 
 Assuming we live in an ethically perfect world, this is still too much work for one person to manage directly. How can we reliably track this level of complexity in a way such that public safety is dramatically improved?
 
-These protocols worked when the industry's technology was born onto paper and lived on writing until the completion of the project. Our design data now lives on a transistor state on some computer somewhere in the world.
+These protocols worked when the industry's technology was born onto paper and lived on writing until the completion of the project.&#x20;
 
 Our engineering design data now lives on a transistor state on some computer somewhere in the world and it's never coming back. We have to go find it.
