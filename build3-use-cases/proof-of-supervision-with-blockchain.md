@@ -15,7 +15,7 @@ layout: editorial
 
 The licensing boards will be constructed from the `collective` pallet.&#x20;
 
-We will also introduce a `workding group` technical committee. Working groups define the standard of care for each category of work on the network.&#x20;
+We will also introduce a `working group` technical committee. Working groups define the standard of care for each category of work on the network.&#x20;
 
 {% hint style="info" %}
 ## Licensing Board
