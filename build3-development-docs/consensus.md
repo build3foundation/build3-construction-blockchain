@@ -61,7 +61,7 @@ A new round starts when the **primary node** **broadcasts** **blocks** they esti
 After a pre-determined time from the broadcast, validators broadcast a pre-vote. The validators cast a prevote for the **head** of the best chain containing the **broadcasted blocks.**&#x20;
 
 {% hint style="success" %}
-note: if the primary node broadcasts a new **finalized block** that is at or **before (or is) the header of the broadcasted chain** but is **after all estimated finalized blocks**, then the nodes use the best chain containing that newly finalized block instead.
+If the primary node broadcasts a new **finalized block** that is at or **before (or is) the header of the broadcasted chain** but is **after all estimated finalized blocks**, then the nodes use the best chain containing that newly finalized block instead.
 {% endhint %}
 
 #### Nodes Pre-Commit
