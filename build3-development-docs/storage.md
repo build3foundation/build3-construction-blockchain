@@ -30,12 +30,12 @@ This does not solve the storage problem. After all, the final result is just a h
 
 There are likely many private companies that would append the blockchain by offering these services, but how can we find a way to persist the data for a longer period of time?
 
-* This ultimfront-end developers will have to contually transform data for most RPC requests
+* This multifront-end developer will have to continually transform data for most RPC requests
 
 ## IPFS
 
-IPFS is a peer-to-peer data storage system that helps to solve the large format, immutable and persistent storage dilema presented by traditional blockchain.
+IPFS is a peer-to-peer data storage system that helps to solve the large format, immutable and persistent storage dilemma presented by traditional blockchain.
 
-Luckily, the IFPS development team has already worked to start solving this problem and they have constructed an [off-chain worker manual](https://rs-ipfs.github.io/offchain-ipfs-manual/introduction.html).&#x20;
+Luckily, the IPFS development team has already worked to start solving this problem and they have constructed an [off-chain worker manual](https://rs-ipfs.github.io/offchain-ipfs-manual/introduction.html).&#x20;
 
 More on this later.
