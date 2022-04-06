@@ -48,7 +48,7 @@ Polkadot (and similar substrate\_ based blockchains) will make it easy for users
 {% hint style="info" %}
 #### Don't want to be on Polkadot? Not a problem.
 
-Any application built with `substrate_` can easily be configured to operate _<mark style="color:orange;">****</mark>** completely independently**_ from the Polkdaot.Network.
+Any application built with `substrate_` can easily be configured to operate _<mark style="color:orange;">****</mark>** completely independently**_ from the Polkadot.Network.
 {% endhint %}
 
 ### <mark style="color:green;">Permanent</mark> and <mark style="color:green;">Immutable</mark>: IPFS

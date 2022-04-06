@@ -52,7 +52,7 @@ With GRANDPA finality, the validators vote on the chains instead of the blocks. 
 
 ### The GRANDPA Round
 
-#### Primary Note Proposes Block
+#### Primary Node Proposes Block
 
 A new round starts when the **primary node** **broadcasts** **blocks** they estimate might have been finalized within a specific chain from the previous round.
 
