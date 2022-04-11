@@ -6,7 +6,16 @@ description: A short list of proposed publications.
 
 ## Overview
 
-The following is a list of topics we are interested in exploring more deeply. We are always looking for more research support, [reach out on our Discord ](https://discord.gg/jJhp58PFA2)if you would like to learn more about contributing to Build3 Foundation.
+The Build3 Foundation receives all contributions to research and development from the open-source community. We are actively looking for researchers to collaborate on publications, and this list represents a few topics on our schedule to integrate into formal research.
+
+The path toward publication will move along according to this cycle:
+
+1. Propose idea and abstract to be added to this curated list.
+2. The authorship team is identified for a topic. An authorship team may include organizations and individuals.
+3. The authorship team organizes and publishes their ideas on this website as proof of concept research. This will allow flexibility to build ideas while sharing them in their transient state.
+4. Once the idea has reached steady-state on this documentation website, it will be converted into a formal, technical white paper and published as free and open-source for the community's benefit.
+
+Interested in contributing to publications? Just [reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
 
 
 
