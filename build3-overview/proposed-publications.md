@@ -46,3 +46,13 @@ Construction drawings generally require submittals such as product data, shop dr
 With a public utility construction ledger, these submittals would be tied to the construction project and must be signed by the issuer. This centralizes access to the submittal data, demonstrates proof of time passed between submission and reviewn and most importantly offers proof of authorship. The engineer of record has proof that the author of the submittal is the contractor performing the work, and the contractor has proof that the engineer of record is the author of the review or approval.
 
 </details>
+
+<details>
+
+<summary>Cryptographic Certificate of Occupancy</summary>
+
+With architectural and engineering seals, Construction Administration, permit review and approval, and inspections authorship proofs resolved, it isn't a stretch of the mind to consider the Certificate of Occupancy itself as fundamental to the blockchain. The building design and construction cycle would be tied together with minimal disruption to existing workflows, directly to the Occupancy Certificate.
+
+This new cryptographic token will tie to the building identity and introduce new features for a certificate of occupancy that could never have previously existed. This topic encourages the authors' imagination to explore those new features and document them as formal technical specifications.
+
+</details>
