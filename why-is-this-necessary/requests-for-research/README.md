@@ -108,7 +108,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 #### Nominated Authorship Team:&#x20;
 
-#### **\[awaiting nomination]**
+#### \[awaiting nomination]
 
 ### **Abstract**
 
@@ -124,15 +124,45 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
   * _The above claim is not necessarily true. Build3 is about authorship, no ownership. This is a fundamental difference between the criticisms (generally focused on flaws inherent to fintech and so claims generally reside in the claim that blockchain is the finacialization of all things). It must be differentiated: Build3 is concerned with authorship for the purposes of construction supervision authority._
 * __[_**Web3 is Going Great**_ ](https://web3isgoinggreat.com)_- A curated timeline of fraud and scams in blockchain to emphasize the problem with scams and fraud._
 
+</details>
 
+<details>
+
+<summary>Build3 Foundation Bylaws: Connecting On-Chain Governance to Board Approved Bylaws </summary>
+
+Nominated Authorship Team:&#x20;
+
+#### Kenneth Shultz, PE - Author
+
+\[awaiting nomination] - Editor
+
+### **Abstract**
+
+This paper will explore traditional bylaw language for registered 503(c) organizations, and work to adapt them such that they can be updated through the blockchain governance. The final bylaws, once approved by the board of directors, will be published as part of the research and be registered with the State Corporation Commission. The bylaws will also be formally instantiated on-chain through the on-chain governance mechanisms.&#x20;
+
+The language should be worded in such a way that all future changes to the bylaws shall be registered through the blockchain protocols. There should be considerations for catastrophic failure in the chain to compensate for the risk of early adoption. For example: in the event of a catastrophic failure, the acting authorities of the organization may adopt new bylaws through traditional means. Those means must be registered to the blockchain once the network failure has been resolved.
+
+The purpose is to both finalize the Build3 Bylaws and publish findings for future organizations to use in consultation with their legal representation.
+
+### Related Research
+
+* ****[**(UN)CORPORATE CRYPTO-GOVERNANCE**](http://fordhamlawreview.org/wp-content/uploads/2020/04/Reyes\_April\_A\_13.pdf) ****&#x20;
+* ****[**Smart Legal Contracts: Advice to Governments**](https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2021/11/Smart-legal-contracts-accessible.pdf)****
 
 </details>
 
-## The Steps for Producing Publications
+## The Steps for Build3 Publications
 
 The path toward publication will move along according to this cycle:
 
-1. Propose idea and abstract to be added to this curated list.
-2. The authorship team is identified for a topic. An authorship team may include organizations and individuals.
-3. The authorship team organizes and publishes their ideas on this website as proof of concept research. This will allow flexibility to build ideas while sharing them in their transient state.
-4. Once the idea has reached steady-state on this documentation website, it will be converted into a formal, technical white paper and published as free and open-source for the community's benefit.
+1. **Topic Nomination:** A topic is nominated for consideration by the Build3 Foundation. The submitting party may nominate themselves.&#x20;
+2. **Author Nomination:** The topic proposal will be listed for up to one week. It may be removed if no author and editor are nominated within that time period.
+3. **Maximum Topics Listed:** Only ten research requests may be posted at a time.
+4. **Topic Removal:** Once either 1.) at least one author and one editor have accepted the nomination and have committed to a publication deadline, or 2.) the listing has expired, the topic is removed from the Research Requests page.&#x20;
+5. **Research Development:** The topic is then moved to the Active Research Projects page.&#x20;
+   1. Where the research progress must be updated a minimum of once weekly to allow for user review and comment. The authorship team is under no obligation to accept comments from the community on the work. This allows for other members to engage in the progress and give the authors constructive feedback during the process.
+6. **Steady-State:** The documentation must be declared as in 'steady state' meaning no significant changes to claims, or conclusions are permitted for this research period.&#x20;
+   1. Steady-state must be declared at least two weeks prior to the formal publication deadline.&#x20;
+7. **Finalizing the Publication:** The research team used the time between steady-state and the deadline to formalize their findings in a technical white paper.
+   1. The final paper will be submitted to the network for approval. Comments may be submitted, but the authors are under no obligation to address them.
+   2. If approved, be publication will be published as free and open-source (granting rights to the public to print, distribute, and make derivative work, without limitation) to the Build3 Foundation research repository.
