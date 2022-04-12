@@ -8,13 +8,31 @@ description: A list of research topics and how to get involved in contributing.
 
 The Build3 Foundation receives all contributions to research and development from the open-source community. We are actively looking for researchers to collaborate on publications, and this list represents a few topics on our schedule to integrate into formal research.
 
-### How to Contribute to Research&#x20;
+### How do I Join an Authorship Team?
 
-[Reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
+If you would like to join an Authorship Team (or submit a topic to request an Authorship Team), please first [become a member](https://www.build3.foundation/members) (there are no fees), then join our [Discord server](https://discord.gg/jJhp58PFA2). Once you are on the Discord server, we'll walk you through the process and get to work!
+
+### What is an Authorship Team?
+
+An authorship team must contain a minimum of one author and one editor. There may be multiples of either or multiples of both.&#x20;
+
+#### Author
+
+The authors are for producing the copy and all supporting documents, sources, images, and graphs. The author is responsible for delivering the research on time to ensure timely delivery of weekly updates to this website, a timely steady-state declaration, and on-time delivery of the final product submitted for approval to the network.&#x20;
+
+If multiple authors are nominated, one must be titled the Lead Researcher, acting as the project manager. The Lead is ultimately responsible for all duties listed above. The Lead Research is listed first on the publication and is credited with these additional responsibilities on the publication.
+
+#### Editor
+
+The editor is responsible for quality assurance. The editor reads each iteration of thought looking for logical fallacies, technical inaccuracies, grammar or spelling issues, confirmation bias, relevance to build3 scope, and other elements to ensure a minimum standard of care for the publication.
+
+The editor is responsible for merging all pull requests from the Author during the **Research Development** phase.
+
+
 
 ## Research Topics Open for Authorship Teams
 
-If you would like to join an Authorship Team or submit a topic to request an Authorship Team, please first [become a member](https://www.build3.foundation/members) (free membership), then join our [Discord server](https://discord.gg/jJhp58PFA2) and the community will help walk you through the process.
+The following topics are open Authorship Team nominations. [This is how](./#how-to-contribute-to-research) you can join a team or nominate someone else for a team.
 
 ### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
