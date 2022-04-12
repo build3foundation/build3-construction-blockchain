@@ -52,6 +52,12 @@ Blockchain enthusiasts usually tout the benefits of decentralization. Unfortunat
 
 A proposed solution to this problem involves removing or reducing the possibility of exponential relationships from voting power. Non-transferrable voting tokens are issues based on a user's contribution to the network. You earn voting tokens as you review, submit, or otherwise interact with the system. These tokens are non-transferrable, would be burned when used for voting, and may expire after some time. This paper will explore these ideas and propose technical standards for developers to implement as a pallet on the chain. This voting token introduces a new token that is not nonfungible (NFT) nor technically wholly fungible.
 
+[Click here to view this project's documentation progress](labor-based-voting-authority.md)
+
+
+
+
+
 </details>
 
 <details>
