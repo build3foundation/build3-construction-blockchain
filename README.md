@@ -10,9 +10,9 @@ The engineering and construction industry has taken some steps towards modernizi
 
 ## Who We Are
 
-We are engineers, architects, mathematicians, organizations, businesses, and other professionals. We are tenants, landlords, lawyers, insurers, investors, contractors, marketers. We are anyone who interacts with buildings in any form and bear the responsibility and liability for the safety and welfare of a building's inhabitants.
+We are engineers, architects, mathematicians, organizations, businesses, and other professionals. We are tenants, landlords, lawyers, insurers, investors, contractors, and marketers. We are anyone who interacts with buildings in any form and bears the responsibility and liability for the safety and welfare of a building's inhabitants.
 
-We are in an industry that requires professional supervision in the digital world to administer the building of physical structures. There should be no ambiguity regarding the authorship, ownership and authenticity of the documents used to build.
+We are in an industry that requires professional supervision in the digital world to administer the building of physical structures. There should be no ambiguity regarding the authorship, ownership, and authenticity of the construction documents used to build occupiable structures.
 
 The increasingly divergent digital and physical worlds in the construction industry pose a risk to public safety, health, and welfare. We have an ethical and practical obligation to ensure that the network in which these documents are produced, released, and distributed is secured.
 

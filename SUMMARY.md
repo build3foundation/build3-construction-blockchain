@@ -1,17 +1,17 @@
 # Table of contents
 
-## Build3 Overview
+## Why is This Necessary?
 
 * [🌄 Introduction](README.md)
-* [ℹ Knowledgebase](build3-overview/knowledgebase.md)
-* [🎯 How Blockchain Protects Public Safety](build3-overview/how-blockchain-protects-public-safety/README.md)
-  * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
-  * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
-* [📢 Pending Research Topics](build3-overview/proposed-publications.md)
+* [ℹ Knowledgebase](why-is-this-necessary/knowledgebase.md)
+* [🎯 How Blockchain Protects Public Safety](why-is-this-necessary/how-blockchain-protects-public-safety/README.md)
+  * [🗺 Old System, New World](why-is-this-necessary/how-blockchain-protects-public-safety/old-system-new-world.md)
+  * [💡 A Working Solution](why-is-this-necessary/how-blockchain-protects-public-safety/a-working-solution.md)
+* [📢 Pending Research Topics](why-is-this-necessary/pending-research-topics.md)
 
 ## Build3 Use Cases
 
-* [🔭 Introduction](build3-use-cases/introduction.md)
+* [🔭 Introduction](build3-use-cases/what-can-build3-do.md)
 * [🫔 Proof of Supervision with Blockchain](build3-use-cases/proof-of-supervision-with-blockchain.md)
 * [🏔 Record of Work](build3-use-cases/record-of-work.md)
 * [🏝 Connecting to Land](build3-use-cases/connecting-to-land.md)
