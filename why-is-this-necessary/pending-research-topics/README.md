@@ -16,7 +16,7 @@ The Build3 Foundation receives all contributions to research and development fro
 
 <details>
 
-<summary>How Long Will Adoption Take? A roadmap.</summary>
+<summary>Build3 Blockchain Adoption Roadmap and Challenges</summary>
 
 A proposed publication to discuss the roadmap for implementing a public utility supervision blockchain. This research would discover the full road map in a logical order from easiest to most difficult to implement. An example features road map may look like this:
 
@@ -32,7 +32,7 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 <details>
 
-<summary>Labor Based Based Voting Power</summary>
+<summary>Labor Based Based Voting Authority</summary>
 
 Blockchain enthusiasts usually tout the benefits of decentralization. Unfortunately, many of the features baked into the technology ultimately lead to a re-centralization in myriad ways. A small [central group of miner farms](https://www.sunbirddcim.com/infographic/largest-bitcoin-mining-farms-world) generally controls all rewards on the bitcoin network. When it comes to voting mechanisms, most involve the spending of coins, which makes voter authority directly proportional to their access to funds.&#x20;
 
