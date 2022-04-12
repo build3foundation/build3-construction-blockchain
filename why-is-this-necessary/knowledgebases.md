@@ -5,7 +5,11 @@ description: >-
 coverY: 0
 ---
 
-# ℹ Other Build3 Knowledgebases
+# ℹ Knowledgebases
+
+{% hint style="info" %}
+When applicable, each heading is a link to take you to the additional knowledgebase resource.
+{% endhint %}
 
 ## [build3.foundation](https://www.build3.foundation)
 

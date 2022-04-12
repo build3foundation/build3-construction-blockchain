@@ -7,7 +7,7 @@
   * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
   * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
 * [📢 Pending Research Topics](build3-overview/proposed-publications.md)
-* [ℹ Other Build3 Knowledgebases](build3-overview/knowledgebase.md)
+* [ℹ Knowledgebases](why-is-this-necessary/knowledgebases.md)
 
 ## Build3 Use Cases
 
