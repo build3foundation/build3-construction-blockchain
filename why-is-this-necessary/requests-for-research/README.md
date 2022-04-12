@@ -151,7 +151,7 @@ The purpose is to both finalize the Build3 Bylaws and publish findings for futur
 
 </details>
 
-## The Steps for Build3 Publications
+## How to Publish with Build3 Foundation
 
 The path toward publication will move along according to this cycle:
 
