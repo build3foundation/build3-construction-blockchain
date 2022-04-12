@@ -18,6 +18,12 @@ The Build3 Foundation receives all contributions to research and development fro
 
 <summary>Build3 Blockchain Adoption Roadmap and Challenges</summary>
 
+#### Nominated Authorship Team:&#x20;
+
+#### **\[awaiting nomination]**
+
+### Abstract
+
 A proposed publication to discuss the roadmap for implementing a public utility supervision blockchain. This research would discover the full road map in a logical order from easiest to most difficult to implement. An example features road map may look like this:
 
 1. **Professional Licensure Authorship:** Cryptographic Signatures representing Architectural and Engineering Seals. This functions as the start of the identity network as well (proof of licensee).
@@ -34,6 +40,14 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 <summary>Labor Based Based Voting Authority</summary>
 
+#### Nominated Authorship Team:&#x20;
+
+#### **Phillip Brock, Author**
+
+**Ken Shultz, Editor**
+
+### **Abstract**
+
 Blockchain enthusiasts usually tout the benefits of decentralization. Unfortunately, many of the features baked into the technology ultimately lead to a re-centralization in myriad ways. A small [central group of miner farms](https://www.sunbirddcim.com/infographic/largest-bitcoin-mining-farms-world) generally controls all rewards on the bitcoin network. When it comes to voting mechanisms, most involve the spending of coins, which makes voter authority directly proportional to their access to funds.&#x20;
 
 A proposed solution to this problem involves removing or reducing the possibility of exponential relationships from voting power. Non-transferrable voting tokens are issues based on a user's contribution to the network. You earn voting tokens as you review, submit, or otherwise interact with the system. These tokens are non-transferrable, would be burned when used for voting, and may expire after some time. This paper will explore these ideas and propose technical standards for developers to implement as a pallet on the chain. This voting token introduces a new token that is not nonfungible (NFT) nor technically wholly fungible.
@@ -43,6 +57,12 @@ A proposed solution to this problem involves removing or reducing the possibilit
 <details>
 
 <summary>Why Authorship Matters in Construction Administration</summary>
+
+#### Nominated Authorship Team:&#x20;
+
+#### **\[awaiting nomination]**
+
+### **Abstract**
 
 Construction drawings generally require submittals such as product data, shop drawings, product samples, and other elements. Each contractor on the job must submit the specified deliverables in order to conform to the specifications of the supervised construction documents.&#x20;
 
@@ -59,6 +79,12 @@ The public authorship proof lends to transparency and accountability in this sys
 <details>
 
 <summary>Cryptographic Certificate of Occupancy</summary>
+
+#### Nominated Authorship Team:&#x20;
+
+#### **\[awaiting nomination]**
+
+### **Abstract**
 
 With architectural and engineering seals, Construction Administration, permit review and approval, and inspections authorship proofs resolved, it isn't a stretch of the mind to consider the Certificate of Occupancy itself as fundamental to the blockchain. The building design and construction cycle would be tied together with minimal disruption to existing workflows, directly to the Occupancy Certificate.
 
