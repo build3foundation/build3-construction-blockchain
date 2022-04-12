@@ -21,11 +21,11 @@ First, [join the Build3 team (no fees)](./#how-to-contribute-to-research) so you
 
 Without further adieu, here are the topics open to the editor and/or author nomination:&#x20;
 
-### Publication Request List
+## Publication Request List
 
 Publications that do not receive an [author](./#author) and [editor](./#editor) nomination are subject to expiry. New proposals will replace expired proposals.
 
-#### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
+### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
 #### Authorship Team:
 
@@ -55,7 +55,7 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 </details>
 
-#### 2 | Labor-Based Based Voting Authority
+### 2 | Labor-Based Based Voting Authority
 
 #### Authorship Team:
 
@@ -81,7 +81,7 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 </details>
 
-#### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
+### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
 
 #### Authorship Team:
 
@@ -107,7 +107,7 @@ Ultimately, the creates a ledger of authorship proof which increases transparenc
 
 </details>
 
-#### 4 | Cryptographic Certificate of Occupancy
+### 4 | Cryptographic Certificate of Occupancy
 
 #### Authorship Team:
 
@@ -127,7 +127,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 </details>
 
-#### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
+### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
 
 #### Authorship Team:
 
@@ -155,7 +155,7 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 </details>
 
-#### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
+### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
 
 #### Authorship Team:
 
