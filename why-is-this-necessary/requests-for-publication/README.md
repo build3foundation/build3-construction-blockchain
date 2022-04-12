@@ -29,9 +29,9 @@ Publications that do not receive an [author](./#author) and [editor](./#editor) 
 
 #### Authorship Team:
 
-**Author //** \[awaiting nomination]
+**Author //** _\[awaiting nomination]_
 
-**Editor //** \[awaiting nomination]
+**Editor //** _\[awaiting nomination]_
 
 <details>
 
@@ -85,7 +85,7 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 #### Authorship Team:
 
-**Author //** Bradley Edward Layton, Phd PE _\[pending acceptance]_
+**Author //** Bradley Edward Layton, PhD PE _\[pending acceptance]_
 
 **Editor //** _\[awaiting nomination]_
 
@@ -159,7 +159,7 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 #### Authorship Team:
 
-**Author //** Kenneth Shultz, PE&#x20;
+**Author //** Kenneth Shultz, PE _\[accepted]_
 
 **Editor //** _\[awaiting nomination]_
 
