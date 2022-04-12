@@ -16,7 +16,7 @@ The Build3 Foundation receives all contributions to research and development fro
 
 <details>
 
-<summary>Request 1: Build3 Blockchain Adoption Roadmap and Challenges</summary>
+<summary>Request 1: Build3 Blockchain Adoption Roadmap and Challenges<br>Submitted: 12 April 2022</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -42,7 +42,7 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 <details>
 
-<summary>Request 2: Labor Based Based Voting Authority</summary>
+<summary>Request 2: Labor Based Based Voting Authority<br>Submitted: 12 April 2022</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -66,7 +66,7 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 <details>
 
-<summary>Request 3: Why Authorship Matters in Construction Administration</summary>
+<summary>Request 3: Why Authorship Matters in Construction Administration<br>Submitted: 12 April 2022</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -88,7 +88,7 @@ The public authorship proof lends to transparency and accountability in this sys
 
 <details>
 
-<summary>Request 4: Cryptographic Certificate of Occupancy</summary>
+<summary>Request 4: Cryptographic Certificate of Occupancy<br>Submitted: 12 April 2022</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -104,7 +104,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 <details>
 
-<summary>Request 5: Five Reasons Blockchain Will Make Everything Worse</summary>
+<summary>Request 5: Five Reasons Blockchain Will Make Everything Worse<br>Submitted: 12 April 2022</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -128,7 +128,7 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 <details>
 
-<summary>Request 6: Build3 Foundation Bylaws: Connecting On-Chain Governance to Board Approved Bylaws </summary>
+<summary>Request 6: Build3 Foundation Bylaws: Connecting On-Chain Governance to Board Approved Bylaws <br>Submitted: 12 April 2022</summary>
 
 Nominated Authorship Team:&#x20;
 
