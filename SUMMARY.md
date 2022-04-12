@@ -11,7 +11,7 @@
 
 ## Build3 Use Cases
 
-* [🔭 What Can Build3 Do?](build3-use-cases/what-can-build3-do.md)
+* [🔭 Introduction](build3-use-cases/introduction.md)
 * [🫔 Proof of Supervision with Blockchain](build3-use-cases/proof-of-supervision-with-blockchain.md)
 * [🏔 Record of Work](build3-use-cases/record-of-work.md)
 * [🏝 Connecting to Land](build3-use-cases/connecting-to-land.md)
