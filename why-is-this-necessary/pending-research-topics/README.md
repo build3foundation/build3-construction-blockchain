@@ -104,7 +104,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 <details>
 
-<summary>Blockchain Will Make Construction Worse, Not Better: Top Five Reasons</summary>
+<summary>Blockchain Will Make Everything Worse: Five Reasons this Should Never Happen</summary>
 
 #### Nominated Authorship Team:&#x20;
 
