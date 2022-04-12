@@ -1,5 +1,8 @@
 ---
 description: A list of research topics and how to get involved in contributing.
+cover: >-
+  https://images.unsplash.com/photo-1586943759341-be5595944989?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhdXRob3J8ZW58MHx8fHwxNjQ5NzYzMzE5&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 📢 Research Requests
