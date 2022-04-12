@@ -170,11 +170,11 @@ This research aims to dig deeply into those advocating strongly against blockcha
 
 ### **Abstract**
 
-This paper will explore traditional bylaw language for registered 503(c) organizations, and work to adapt them such that they can be updated through the blockchain governance. The final bylaws, once approved by the board of directors, will be published as part of the research and be registered with the State Corporation Commission. The bylaws will also be formally instantiated on-chain through the on-chain governance mechanisms.&#x20;
+This paper will explore traditional bylaw language for registered 503(c) organizations and work to integrate them with on-chain governance. The board of directors will vote to approve or reject the newly proposed bylaws. If approved, The Build3 Foundation will submit the bylaws to the State Corporation Commission, included in the final product of this publication, and formally instantiate them on-chain through the substrate pallet configuration.&#x20;
 
-The language should be worded in such a way that all future changes to the bylaws shall be registered through the blockchain protocols. There should be considerations for catastrophic failure in the chain to compensate for the risk of early adoption. For example: in the event of a catastrophic failure, the acting authorities of the organization may adopt new bylaws through traditional means. Those means must be registered to the blockchain once the network failure has been resolved.
+Construct the paper-contract language such that blockchain governance authorizes all future bylaw changes. Consider conditions for catastrophic network failure. For example, members, a committee, or a board of directors may adopt new bylaws through traditional means. After network recovery, Build3 Foundation must register any off-chain measures adopted to the blockchain.&#x20;
 
-The purpose is to both finalize the Build3 Bylaws and publish findings for future organizations to use in consultation with their legal representation.
+The purpose is to finalize the Build3 Bylaws and publish findings for future organizations to use in consultation with their legal representation.
 
 ### Related Research
 
