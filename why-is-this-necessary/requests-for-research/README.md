@@ -12,13 +12,15 @@ The Build3 Foundation receives all contributions to research and development fro
 
 [Reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
 
-## Research Requests:
+## Research Requests
 
-### Request 1 \[Submitted 12 April 2022]
+The Build3 Community has submitted the following research requests in search of Authorship Teams.
+
+### 1 // Build3 Roadmap for Blockchain-Based Construction Supervision
 
 <details>
 
-<summary>Build3 Blockchain Adoption Roadmap and Challenges</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -42,11 +44,11 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 </details>
 
-### Request 2 \[Submitted 12 April 2022]
+### 2 // Labor-Based Based Voting Authority
 
 <details>
 
-<summary>Labor Based Based Voting Authority</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -68,11 +70,11 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 </details>
 
-### Request 3 \[Submitted 12 April 2022]
+### 3 // Authorship != Ownership: Re-understanding and NFT&#x20;
 
 <details>
 
-<summary>Why Authorship Matters in Construction Administration</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -80,23 +82,23 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 ### **Abstract**
 
-Construction drawings generally require submittals such as product data, shop drawings, product samples, and other elements. Each contractor on the job must submit the specified deliverables in order to conform to the specifications of the supervised construction documents.&#x20;
+A common problem articulated for NFTs is that they do nothing to assure ownership. Anyone can claim any digital asset and mint it as an NFT. The point of this research is to demonstrate the completely overlooked use for an NFT: authorship.&#x20;
 
-We currently have no way to determine whether the architect or engineer is reviewing the exact same information submitted by the author (usually a trade contractor).\
-\
-The submittals are tied to the construction project and are signed by the issuer(s) as well as the reviewers(s). The designer of record has proof that the author of the submittal is the contractor performing the work, and the contractor has proof that the engineer of record is the author of the review or approval.
+Consider the example of a shop drawing submittal.&#x20;
 
-This mechanism also provides proof of compliance with specifications. It is now possible to prove if submittals were given to and approved by appropriate supervising authorities before construction was permitted.&#x20;
+Equipment manufacturers typically author these drawings. The trade contractor then modifies if necessary to prepare the document and submit his version of the authorship to the licensed designer of record for approval. The designer of the record then authors if the submittal is approved or rejected. At no point in this chain was ownership relevant to the reason for this communication chain.
 
-The public authorship proof lends to transparency and accountability in this system would increase the likelihood of code-compliant installation ultimately having the effect of increasing security for building occupants.
+The reason that process exists is to verify compliance with the construction documents which themselves represent a contract. That contract was authored by a licensed design professional. Although intellectual property rights (ownership) may be relevant in some scopes, it bears no influence on the objective of proving the supervision of construction. That all comes down to proof of authorship. These proofs are nonfungible, individually unique, and happen to be tokenized...they are NFTs
+
+Ultimately, the creates a ledger of authorship proof which increases transparency and accountability in construction. These increases directly influence stronger security of building code enforcement and ultimately the security and well-being of building occupants.
 
 </details>
 
-### Request 4 \[Submitted 12 April 2022]
+### 4 // Cryptographic Certificate of Occupancy
 
 <details>
 
-<summary>Cryptographic Certificate of Occupancy<br>Submitted</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -110,11 +112,11 @@ This new cryptographic token will tie to the building identity and introduce new
 
 </details>
 
-### Request 5 \[Submitted 12 April 2022]
+### 5 // Blockchain Makes Everything Worse for Everyone in Every Industry
 
 <details>
 
-<summary>Five Reasons Blockchain Will Make Everything Worse<br>Submitted</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -136,11 +138,11 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 </details>
 
-### Request 6 \[Submitted 12 April 2022]
+### 6 // Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
 
 <details>
 
-<summary>Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws</summary>
+<summary>Read More [Submitted 12 April 2022]</summary>
 
 Nominated Authorship Team:&#x20;
 
