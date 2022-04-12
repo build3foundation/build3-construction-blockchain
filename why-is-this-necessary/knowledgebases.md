@@ -13,9 +13,9 @@ When applicable, each heading is a link to take you to the additional knowledgeb
 
 ## [build3.foundation](https://www.build3.foundation)
 
-This is the foundation landing page.&#x20;
+This is the foundation landing page and the place where members can officially join the foundation. This page hosts forums, blogs, membership, and events.
 
-We are working to optimize SEO and keep the content highly stable, rarely updating. The focus of this website is to drive inbound traffic to the organization to teach about the reason for the research as well as attract new contributors to the organization.
+The build3.foundation page also serves as the main first-time-viewer landing page. A one-pager intended to articulate the mission succinctly.&#x20;
 
 ## [**build3.network**](https://www.build3.network)
 
