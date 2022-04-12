@@ -12,7 +12,7 @@ The Build3 Foundation receives all contributions to research and development fro
 
 [Reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
 
-## Research Topics
+## Proposed Research Topics
 
 <details>
 
