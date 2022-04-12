@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# ℹ Knowledgebase
+# ℹ Other Build3 Knowledgebases
 
 ## [build3.foundation](https://www.build3.foundation)
 
