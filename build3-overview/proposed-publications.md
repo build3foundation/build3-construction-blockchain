@@ -47,11 +47,17 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 <details>
 
-<summary>Construction Administration on Public Utility Construction Ledger</summary>
+<summary>Why Authorship Matters in Construction Administration</summary>
 
-Construction drawings generally require submittals such as product data, shop drawings, product samples, and other elements. Each contractor on the job must submit the specified deliverables in order to conform to the specifications of the supervised construction documents. \
+Construction drawings generally require submittals such as product data, shop drawings, product samples, and other elements. Each contractor on the job must submit the specified deliverables in order to conform to the specifications of the supervised construction documents.&#x20;
+
+We currently have no way to determine whether the architect or engineer is reviewing the exact same information submitted by the author (usually a trade contractor).\
 \
-With a public utility construction ledger, these submittals would be tied to the construction project and must be signed by the issuer. This centralizes access to the submittal data, demonstrates proof of time passed between submission and reviewn and most importantly offers proof of authorship. The engineer of record has proof that the author of the submittal is the contractor performing the work, and the contractor has proof that the engineer of record is the author of the review or approval.
+The submittals are tied to the construction project and are signed by the issuer(s) as well as the reviewers(s). The designer of record has proof that the author of the submittal is the contractor performing the work, and the contractor has proof that the engineer of record is the author of the review or approval.
+
+This mechanism also provides proof of compliance with specifications. It is now possible to prove if submittals were given to and approved by appropriate supervising authorities before construction was permitted.&#x20;
+
+The public authorship proof lends to transparency and accountability in this system would increase the likelihood of code-compliant installation ultimately having the effect of increasing security for building occupants.
 
 </details>
 
