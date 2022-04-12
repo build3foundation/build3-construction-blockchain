@@ -6,11 +6,12 @@
 * [🎯 How Blockchain Protects Public Safety](build3-overview/how-blockchain-protects-public-safety/README.md)
   * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
   * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
-* [📢 Requests for Publication](why-is-this-necessary/requests-for-publication.md)
-* [🕦 Research Development](why-is-this-necessary/research-development/README.md)
-  * [🛣 PR 1 | Build3 Roadmap for Blockchain-Based Construction Supervision](why-is-this-necessary/research-development/pr-1-or-build3-roadmap-for-blockchain-based-construction-supervision.md)
-  * [👷♀ PR2 | Labor-Based Based Voting Authority](why-is-this-necessary/research-development/pr2-or-labor-based-based-voting-authority.md)
-  * [🥑 PR6 | Configuring a DAO as a Legal 503(c)](why-is-this-necessary/research-development/pr6-or-configuring-a-dao-as-a-legal-503-c.md)
+* [📢 Publication Requests](why-is-this-necessary/publication-requests/README.md)
+  * [🗄 PR Archives](why-is-this-necessary/publication-requests/pr-archives.md)
+* [🐳 Research Development](why-is-this-necessary/research-development/README.md)
+  * [🛣 RD1 | Build3 Roadmap for Blockchain-Based Construction Supervision](why-is-this-necessary/research-development/rd1-or-build3-roadmap-for-blockchain-based-construction-supervision.md)
+  * [👷♀ RD2 | Labor-Based Based Voting Authority](why-is-this-necessary/research-development/rd2-or-labor-based-based-voting-authority.md)
+  * [🥑 RD6| Configuring a DAO as a Legal 503(c)](why-is-this-necessary/research-development/rd6-or-configuring-a-dao-as-a-legal-503-c.md)
 * [ℹ Knowledgebases](why-is-this-necessary/knowledgebases.md)
 
 ## Build3 Use Cases
