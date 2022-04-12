@@ -120,7 +120,7 @@ And so we ask ourselves, what is the name for proof of authorship on a blockchai
 
 <details>
 
-<summary>PR5 | Click to Expand | Submitted 12 April 2022</summary>
+<summary>PR4 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -221,17 +221,38 @@ A Build3 Member-nominated request for publication. If accepted, Build3 lists thi
 
 The path toward publication will move along according to this cycle:
 
-1. **Publication Request:** A member submits publication requests for consideration into the curated list hosted on this page. Build3 adds approved publication requests to the next available nomination timeslot (each one week in length)&#x20;
-2. **Author and Editor Nomination:** Build3 Members nominate authors and editors for each publication; self-nomination is permitted (this may change). The foundation lists the publication request for one week, removing it after one week if no author is nominated and accepted. If there are no new publication requests in the queue at the end of the nomination slot, Build3 Members may vote on a previously unsuccessful publication request.&#x20;
-3. **Maximum Topics Listed:** Build3 limits the total publication requests to a maximum of ten for each nomination slot.
-4. **Research Development:** The Build3 Foundation moves all successful proposals to the Active Research page, where the Authorship Team begins Research Development.
-   1. The Authorship Team must update their progress weekly so that Build3 Members may review and comment.
-   2. The authorship team is under no obligation to integrate the comments from the community.&#x20;
-   3. For the benefit of context for observing Members, the authorship team will respond to all rejected comments with their reasoning.&#x20;
-5. **Steady-State:** The Authorship Team must declare their work in a Steady-State two or more weeks before the final submission deadline. The Authorship Team will not submit additional significant changes or conclusions for projects announced in Steady-State.&#x20;
-6. **Finalizing the Publication:** The research team uses the time between steady-state and the deadline to formalize their findings in a technical white paper. The Authorship team submits its work on the pre-determined deadline.
-   1. **Pre-Final Vote:** Build3 Members vote to approve or reject the pre-final draft. Approvals and rejection votes may include notes to authors. Authors are under no obligation to address or reply to comments. The Authorship Team determines what changes to incorporate and submits any revisions for the final vote.
-   2. **Revised-Final Vote:** The Build3 Members vote on the revised final; comments are optional.&#x20;
-      1. If approved, the Authorship Team may not modify the approved document.&#x20;
-      2. If not approved, Build3 Members may not vote again for the submission.&#x20;
-      3. A Build3 Member must submit the topic again as a research request and repeat the process to produce another voting round.
+#### Step 1. Publication Request
+
+A member submits publication requests for consideration into the curated list hosted on this page. Build3 adds approved publication requests to the next available nomination timeslot (each one week in length)&#x20;
+
+#### Step 2. Author and Editor Nomination
+
+Build3 Members nominate authors and editors for each publication; self-nomination is permitted (this may change). The foundation lists the publication request for one week, removing it after one week if no author is nominated and accepted. If there are no new publication requests in the queue at the end of the nomination slot, Build3 Members may vote on a previously unsuccessful publication request.&#x20;
+
+#### Step 3. Maximum Topics Listed Per Nomination Cycle
+
+Build3 limits the total publication requests to a maximum of ten for each nomination slot.
+
+#### Step 4. Research Development
+
+The Build3 Foundation moves all successful proposals to the Active Research page, where the Authorship Team begins Research Development.
+
+1. The Authorship Team must update their progress weekly so that Build3 Members may review and comment.
+2. The authorship team is under no obligation to integrate the comments from the community.&#x20;
+3. For the benefit of context for observing Members, the authorship team will respond to all rejected comments with their reasoning.&#x20;
+
+#### **Step 5. Steady-Sate**
+
+The Authorship Team must declare their work in a Steady-State two or more weeks before the final submission deadline. The Authorship Team will not submit additional significant changes or conclusions for projects announced in Steady-State.&#x20;
+
+#### Step 6. Finalizing the Publication
+
+The research team uses the time between steady-state and the deadline to formalize their findings in a technical white paper. The Authorship team submits its work on the pre-determined deadline.
+
+1. **Pre-Final Vote:** Build3 Members vote to approve or reject the pre-final draft. Approvals and rejection votes may include notes to authors. Authors are under no obligation to address or reply to comments. The Authorship Team determines what changes to incorporate and submits any revisions for the final vote.
+   1. Build3 members may nominate dissenting opinions to be included in the addendum of the final publication. Build3 members then vote on the inclusion of those nominated opinions.
+   2. When the Authorship Team sponsors a dissenting opinion, it is automatically added to the addendum.
+2. **Revised-Final Vote:** The Build3 Members vote on the revised final; comments are optional.&#x20;
+   1. If approved, the Authorship Team may not modify the approved document.&#x20;
+   2. If not approved, Build3 Members may not vote again for the submission.&#x20;
+   3. A Build3 Member must submit the topic again as a research request and repeat the process to produce another voting round.
