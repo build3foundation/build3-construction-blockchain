@@ -2,7 +2,7 @@
 description: A list of research topics and how to get involved in contributing.
 ---
 
-# 📢 Pending Research Topics
+# 📢 Research Requests
 
 ## Overview
 
@@ -104,7 +104,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 <details>
 
-<summary>Blockchain Will Make Everything Worse: Five Reasons this Should Never Happen</summary>
+<summary>Five Reasons Blockchain Will Make Everything Worse</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -123,8 +123,6 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
   * From the website, "Web3 is a web of ownership. Every object is owned by someone, every object can be traded to someone else."&#x20;
   * _The above claim is not necessarily true. Build3 is about authorship, no ownership. This is a fundamental difference between the criticisms (generally focused on flaws inherent to fintech and so claims generally reside in the claim that blockchain is the finacialization of all things). It must be differentiated: Build3 is concerned with authorship for the purposes of construction supervision authority._
 * __[_**Web3 is Going Great**_ ](https://web3isgoinggreat.com)_- A curated timeline of fraud and scams in blockchain to emphasize the problem with scams and fraud._
-
-
 
 
 
