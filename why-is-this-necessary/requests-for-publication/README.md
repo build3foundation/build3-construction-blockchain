@@ -96,15 +96,17 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 ### **Abstract**
 
-A common problem articulated for NFTs is that they do nothing to assure ownership. Anyone can claim any digital asset and mint it as an NFT. The point of this research is to demonstrate the completely overlooked use for an NFT: authorship.&#x20;
+A common problem articulated for NFTs is that they do nothing to assure ownership. Anyone can claim any digital asset and mint it as an NFT. This research aims to demonstrate the wholly overlooked use for an NFT: authorship.&#x20;
 
-Consider the example of a shop drawing submittal.&#x20;
+#### Example: Shop Drawing Submittal Review
 
-Equipment manufacturers typically author these drawings. The trade contractor then modifies if necessary to prepare the document and submit his version of the authorship to the licensed designer of record for approval. The designer of the record then authors if the submittal is approved or rejected. At no point in this chain was ownership relevant to the reason for this communication chain.
+Equipment manufacturers typically author these drawings. If necessary, the trade contractor then marks up the submittal to prepare the document for review. The licensed designer of record then authors their judgment against the submission and sends it back as either approved or denied (resubmission required). At no point in this chain was ownership relevant to the reason for this communication chain.
 
-The reason that process exists is to verify compliance with the construction documents which themselves represent a contract. That contract was authored by a licensed design professional. Although intellectual property rights (ownership) may be relevant in some scopes, it bears no influence on the objective of proving the supervision of construction. That all comes down to proof of authorship. These proofs are nonfungible, individually unique, and happen to be tokenized...they are NFTs
+That process exists to verify compliance with the construction documents. Compliance with construction documents represents compliance with the highly regulated architectural and engineering design process. The highly regulated design process is in place to ensure compliance with the code, and the code's fundamental purpose is to protect public safety and welfare.&#x20;
 
-Ultimately, the creates a ledger of authorship proof which increases transparency and accountability in construction. These increases directly influence stronger security of building code enforcement and ultimately the security and well-being of building occupants.
+Ownership of these documents is entirely irrelevant within this context. Nothing is more important than proof of authorship and compliance with previously authored construction records.
+
+And so we ask ourselves, what is the name for proof of authorship on a blockchain? These authorship proofs belong to a contract. They are nonfungible in that no two authorship proofs can be considered equal. Unlike artwork or music, an authorship-based supervision compliance supply chain is strictly _nontransferrable._ The signed documents bind to the construction contract immutably, and the construction contract binds in perpetuity to the property.
 
 </details>
 
