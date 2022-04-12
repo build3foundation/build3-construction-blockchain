@@ -12,15 +12,15 @@ The Build3 Foundation receives all contributions to research and development fro
 
 [Reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
 
-## Research Requests
+## Research Topics Open for Authorship Teams
 
-The Build3 Community has submitted the following research requests in search of Authorship Teams.
+If you would like to join an Authorship Team or submit a topic to request an Authorship Team, please first [become a member](https://www.build3.foundation/members) (free membership), then join our [Discord server](https://discord.gg/jJhp58PFA2) and the community will help walk you through the process.
 
-### 1 // Build3 Roadmap for Blockchain-Based Construction Supervision
+### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -44,11 +44,11 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 </details>
 
-### 2 // Labor-Based Based Voting Authority
+### 2 | Labor-Based Based Voting Authority
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -70,11 +70,11 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 </details>
 
-### 3 // Authorship != Ownership: Re-understanding and NFT&#x20;
+### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -94,11 +94,11 @@ Ultimately, the creates a ledger of authorship proof which increases transparenc
 
 </details>
 
-### 4 // Cryptographic Certificate of Occupancy
+### 4 | Cryptographic Certificate of Occupancy
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -112,11 +112,11 @@ This new cryptographic token will tie to the building identity and introduce new
 
 </details>
 
-### 5 // Blockchain Makes Everything Worse for Everyone in Every Industry
+### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 #### Nominated Authorship Team:&#x20;
 
@@ -138,11 +138,11 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 </details>
 
-### 6 // Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
+### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
 
 <details>
 
-<summary>Read More [Submitted 12 April 2022]</summary>
+<summary>Expand to Read More [Submitted 12 April 2022]</summary>
 
 Nominated Authorship Team:&#x20;
 
@@ -165,7 +165,7 @@ The purpose is to both finalize the Build3 Bylaws and publish findings for futur
 
 </details>
 
-## How to Publish with Build3 Foundation
+## How to Publish Build3 Research
 
 The path toward publication will move along according to this cycle:
 
