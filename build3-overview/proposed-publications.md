@@ -20,13 +20,13 @@ The Build3 Foundation receives all contributions to research and development fro
 
 A proposed publication to discuss the roadmap for implementing a public utility supervision blockchain. This research would discover the full road map in a logical order from easiest to most difficult to implement. An example features road map may look like this:
 
-1\. **Professional Licensure Authorship:** Cryptographic Signatures representing Architectural and Engineering Seals. This functions as the start of the identity network as well (proof of licensee).\
-2\. **Construction Submittals:** Cryptographically signed by the issuer and signed by the reviewer(s)\
-3\. **Permitting:** Permits signed on-chain by the submitting parties and signed by the approving authority having jurisdiction. This topic also requires thinking about the International Building Code, Chapter 1, or other codes are written that address permitting requirements.\
-4\. **Inspections:** Similar to permitting, but for proof of the state of inspection.\
-5\. **Maintenance:**  This may be discussed as an interoperable parachain on the Polkdatot network or some other parachain based network that could share state and security with the build3 network.\
-6\. **Property Identity:** The contributions from the build3 network related to proof of supervision would be identity markers about a specific property. Each renovation from start to end of a building would contain the proof of supervision process that helped to secure the safety of the building itself. This would have insurability implications worth researching.\
-7\. **GIS Maps:** Proof of supervision of land survey work which would be tied directly to the public GIS map systems.
+1. **Professional Licensure Authorship:** Cryptographic Signatures representing Architectural and Engineering Seals. This functions as the start of the identity network as well (proof of licensee).
+2. **Construction Submittals:** Cryptographically signed by the issuer and signed by the reviewer(s)
+3. **Permitting:** Permits signed on-chain by the submitting parties and signed by the approving authority having jurisdiction. This topic also requires thinking about the International Building Code, Chapter 1, or other codes are written that address permitting requirements.
+4. **Inspections:** Similar to permitting, but for proof of the state of inspection.
+5. **Maintenance:**  This may be discussed as an interoperable parachain on the Polkdatot network or some other parachain based network that could share state and security with the build3 network.
+6. **Property Identity:** The contributions from the build3 network related to proof of supervision would be identity markers about a specific property. Each renovation from start to end of a building would contain the proof of supervision process that helped to secure the safety of the building itself. This would have insurability implications worth researching.
+7. **GIS Maps:** Proof of supervision of land survey work which would be tied directly to the public GIS map systems.
 
 </details>
 
