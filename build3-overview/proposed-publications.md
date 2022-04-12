@@ -8,14 +8,9 @@ description: A short list of proposed publications.
 
 The Build3 Foundation receives all contributions to research and development from the open-source community. We are actively looking for researchers to collaborate on publications, and this list represents a few topics on our schedule to integrate into formal research.
 
-The path toward publication will move along according to this cycle:
+### Interested in contributing to publications?&#x20;
 
-1. Propose idea and abstract to be added to this curated list.
-2. The authorship team is identified for a topic. An authorship team may include organizations and individuals.
-3. The authorship team organizes and publishes their ideas on this website as proof of concept research. This will allow flexibility to build ideas while sharing them in their transient state.
-4. Once the idea has reached steady-state on this documentation website, it will be converted into a formal, technical white paper and published as free and open-source for the community's benefit.
-
-Interested in contributing to publications? Just [reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
+[Reach out on our Discord ](https://discord.gg/jJhp58PFA2)and we'll work to connect you with the right team of researchers.
 
 ## Research Topics
 
@@ -70,3 +65,14 @@ With architectural and engineering seals, Construction Administration, permit re
 This new cryptographic token will tie to the building identity and introduce new features for a certificate of occupancy that could never have previously existed. This topic encourages the authors' imagination to explore those new features and document them as formal technical specifications.
 
 </details>
+
+
+
+## Path Toward Publication
+
+The path toward publication will move along according to this cycle:
+
+1. Propose idea and abstract to be added to this curated list.
+2. The authorship team is identified for a topic. An authorship team may include organizations and individuals.
+3. The authorship team organizes and publishes their ideas on this website as proof of concept research. This will allow flexibility to build ideas while sharing them in their transient state.
+4. Once the idea has reached steady-state on this documentation website, it will be converted into a formal, technical white paper and published as free and open-source for the community's benefit.
