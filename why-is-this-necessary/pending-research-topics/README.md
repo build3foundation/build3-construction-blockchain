@@ -34,6 +34,10 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 6. **Property Identity:** The contributions from the build3 network related to proof of supervision would be identity markers about a specific property. Each renovation from start to end of a building would contain the proof of supervision process that helped to secure the safety of the building itself. This would have insurability implications worth researching.
 7. **GIS Maps:** Proof of supervision of land survey work which would be tied directly to the public GIS map systems.
 
+### Related Research
+
+* [Adoption of Blockchain Technology through Digital Twins in the Construction Industry 4.0: A PESTELS Approach](https://www.mdpi.com/2075-5309/11/12/670/pdf)
+
 </details>
 
 <details>
