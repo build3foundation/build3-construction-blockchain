@@ -27,13 +27,15 @@ Publications that do not receive an [author](./#author) and [editor](./#editor) 
 
 #### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
+#### Authorship Team:
+
+**Author //** \[awaiting nomination]
+
+**Editor //** \[awaiting nomination]
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-#### Nominated Authorship Team:&#x20;
-
-#### **\[awaiting nomination]**
 
 ### Abstract
 
@@ -55,15 +57,15 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 #### 2 | Labor-Based Based Voting Authority
 
+#### Authorship Team:
+
+**Author //** Phillip Brock _\[pending acceptance]_
+
+**Editor //** Kenneth Shultz, PE _\[accepted]_
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-#### Nominated Authorship Team:&#x20;
-
-#### **Phillip Brock, Author**
-
-**Ken Shultz, Editor**
 
 ### **Abstract**
 
@@ -81,13 +83,15 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 #### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
 
+#### Authorship Team:
+
+**Author //** Bradley Edward Layton, Phd PE _\[pending acceptance]_
+
+**Editor //** _\[awaiting nomination]_
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-#### Nominated Authorship Team:&#x20;
-
-#### **\[awaiting nomination]**
 
 ### **Abstract**
 
@@ -105,13 +109,15 @@ Ultimately, the creates a ledger of authorship proof which increases transparenc
 
 #### 4 | Cryptographic Certificate of Occupancy
 
+#### Authorship Team:
+
+**Author //** _\[awaiting nomination]_
+
+**Editor //** _\[awaiting nomination]_
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-#### Nominated Authorship Team:&#x20;
-
-#### **\[awaiting nomination]**
 
 ### **Abstract**
 
@@ -123,13 +129,15 @@ This new cryptographic token will tie to the building identity and introduce new
 
 #### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
 
+#### Authorship Team:
+
+**Author //** _\[awaiting nomination]_
+
+**Editor //** _\[awaiting nomination]_
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-#### Nominated Authorship Team:&#x20;
-
-#### \[awaiting nomination]
 
 ### **Abstract**
 
@@ -140,24 +148,24 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 ### Related Research
 
 * [**Line Goes Up**](https://www.youtube.com/watch?v=YQ\_xWvX1n9g) - A two-hour documentary by Dan Olson with the general claim that blockchain technology is unnecessary financialization of everything that empowers the wealthy, fixes nothing, encourages fraud, and generally makes everything in the existing broken system much, much worse.
-* [**The Third Web**](https://tante.cc/2021/12/17/the-third-web/) **** - A well-articulated summary discussing topics such as negative freedom, censorship, code-is-law problems, transactionalism, and ownership. It continues to discuss some of the primary problems including scaling, The Oracle Problem, ownership fallacies, climate destruction, pyramid scheme / bigger fool, and the general claim that VCs will fundamentally re-centralize what was intended to be decentralized.&#x20;
+* [**The Third Web**](https://tante.cc/2021/12/17/the-third-web/) **** - A well-articulated summary discussing topics such as negative freedom, censorship, code-is-law problems, "transactionalism", and ownership. It continues to discuss some of the primary problems including scaling, The Oracle Problem, ownership fallacies, climate destruction, pyramid scheme / bigger fool, and the general claim that VCs will fundamentally re-centralize what was intended to be decentralized.&#x20;
   * From the website, "Web3 is a web of ownership. Every object is owned by someone, every object can be traded to someone else."&#x20;
-  * _The above claim is not necessarily true. Build3 is about authorship, no ownership. This is a fundamental difference between the criticisms (generally focused on flaws inherent to fintech and so claims generally reside in the claim that blockchain is the finacialization of all things). It must be differentiated: Build3 is concerned with authorship for the purposes of construction supervision authority._
+  * _The above claim is not necessarily true. Build3 is about authorship, no ownership. This is a fundamental difference between the criticisms (generally focused on flaws inherent to fintech and so claims generally reside in the claim that blockchain is the_ financialization _of all things). It must be differentiated: Build3 is concerned with authorship for the purposes of construction supervision authority._
 * __[_**Web3 is Going Great**_ ](https://web3isgoinggreat.com)_- A curated timeline of fraud and scams in blockchain to emphasize the problem with scams and fraud._
 
 </details>
 
 #### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
 
+#### Authorship Team:
+
+**Author //** Kenneth Shultz, PE&#x20;
+
+**Editor //** _\[awaiting nomination]_
+
 <details>
 
 <summary>Expand to Read More [Submitted 12 April 2022]</summary>
-
-Nominated Authorship Team:&#x20;
-
-#### Kenneth Shultz, PE - Author
-
-\[awaiting nomination] - Editor
 
 ### **Abstract**
 
