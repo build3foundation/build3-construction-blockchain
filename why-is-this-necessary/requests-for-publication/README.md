@@ -9,13 +9,13 @@ coverY: 0
 
 ## Overview
 
-This page serves to curate the list of research requests as well as to describe the publication workflows. Each item in the list of publication requests is temporarily open to the public for the nomination of [Authorship Teams](./#what-is-an-authorship-team).&#x20;
+This page serves to curate the list of research requests and describe the publication workflows. Each item in the list of publication requests is temporarily open to the public for the nomination of [Authorship Teams](./#what-is-an-authorship-team).&#x20;
 
-In order to participate in authorship or nomination, [join the Build3 team (no fees)](./#how-to-contribute-to-research). Doing so authorizes you to nominate yourself or a team member. You can also submit more topics for consideration.&#x20;
+[Join the Build3 as a member (no fees)](./#how-to-contribute-to-research) to participate in authorship or nomination. Only members are authorized to nominate [authors ](./#author)and [editors ](./#editor)for teams. Members may also submit more topics for consideration.&#x20;
 
 This page may be updated occasionally based on community input.
 
-And without further adieu, let's take a look at the topics open for authorship nomination...
+And without further adieu, let's look at the topics open for authorship nomination:
 
 ## Publication Request List
 
