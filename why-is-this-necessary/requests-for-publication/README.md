@@ -1,43 +1,31 @@
 ---
-description: A list of research topics and how to get involved in contributing.
+description: A list of research topics and how to contribute as an author or editor.
 cover: >-
   https://images.unsplash.com/photo-1586943759341-be5595944989?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhdXRob3J8ZW58MHx8fHwxNjQ5NzYzMzE5&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
-# 📢 Research Requests
+# 📢 Requests for Publication
 
 ## Overview
 
-The Build3 Foundation receives all contributions to research and development from the open-source community. We are actively looking for researchers to collaborate on publications, and this list represents a few topics on our schedule to integrate into formal research.
+This page serves to curate the list of research requests as well as to describe the publication workflows.&#x20;
 
-### How do I Join an Authorship Team?
+This page may be updated occasionally based on community input.
 
-If you would like to join an Authorship Team (or submit a topic to request an Authorship Team), please first [become a member](https://www.build3.foundation/members) (there are no fees), then join our [Discord server](https://discord.gg/jJhp58PFA2). Once you are on the Discord server, we'll walk you through the process and get to work!
+## Active Requests
 
-### What is an Authorship Team?
+Below is the list of active requests for publication in search of [Authorship Teams](./#what-is-an-authorship-team).&#x20;
 
-An authorship team must contain a minimum of one author and one editor. There may be multiples of either or multiples of both.&#x20;
+First, [join the Build3 team (no fees)](./#how-to-contribute-to-research) so you can nominate yourself or a team member. You can also submit more topics for consideration.&#x20;
 
-#### Author
+Without further adieu, here are the topics open to the editor and/or author nomination:&#x20;
 
-The authors are for producing the copy and all supporting documents, sources, images, and graphs. The author is responsible for delivering the research on time to ensure timely delivery of weekly updates to this website, a timely steady-state declaration, and on-time delivery of the final product submitted for approval to the network.&#x20;
+### Publication Request List
 
-If multiple authors are nominated, one must be titled the Lead Researcher, acting as the project manager. The Lead is ultimately responsible for all duties listed above. The Lead Research is listed first on the publication and is credited with these additional responsibilities on the publication.
+Publications that do not receive an [author](./#author) and [editor](./#editor) nomination are subject to expiry. New proposals will replace expired proposals.
 
-#### Editor
-
-The editor is responsible for quality assurance. The editor reads each iteration of thought looking for logical fallacies, technical inaccuracies, grammar or spelling issues, confirmation bias, relevance to build3 scope, and other elements to ensure a minimum standard of care for the publication.
-
-The editor is responsible for merging all pull requests from the Author during the **Research Development** phase.
-
-
-
-## Research Topics Open for Authorship Teams
-
-The following topics are open Authorship Team nominations. [This is how](./#how-to-contribute-to-research) you can join a team or nominate someone else for a team.
-
-### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
+#### 1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
 <details>
 
@@ -65,7 +53,7 @@ A proposed publication to discuss the roadmap for implementing a public utility 
 
 </details>
 
-### 2 | Labor-Based Based Voting Authority
+#### 2 | Labor-Based Based Voting Authority
 
 <details>
 
@@ -91,7 +79,7 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 </details>
 
-### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
+#### 3 | Authorship, not Ownership: Re-understanding and NFT&#x20;
 
 <details>
 
@@ -115,7 +103,7 @@ Ultimately, the creates a ledger of authorship proof which increases transparenc
 
 </details>
 
-### 4 | Cryptographic Certificate of Occupancy
+#### 4 | Cryptographic Certificate of Occupancy
 
 <details>
 
@@ -133,7 +121,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 </details>
 
-### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
+#### 5 | Blockchain Makes Everything Worse for Everyone in Every Industry
 
 <details>
 
@@ -159,7 +147,7 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 </details>
 
-### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
+#### 6 | Legal Context: Connecting On-Chain Governance to State-Recognized Paper Bylaws
 
 <details>
 
@@ -186,7 +174,29 @@ The purpose is to both finalize the Build3 Bylaws and publish findings for futur
 
 </details>
 
-## How to Publish Build3 Research
+## Publication Instructions
+
+### How do I Join an Authorship Team?
+
+If you would like to join an Authorship Team (or submit a topic to request an Authorship Team), please first [become a member](https://www.build3.foundation/members) (there are no fees), then join our [Discord server](https://discord.gg/jJhp58PFA2). Once you are on the Discord server, we'll walk you through the process and get to work!
+
+### What is an Authorship Team?
+
+An authorship team must contain a minimum of one author and one editor. There may be multiples of either or multiples of both.&#x20;
+
+#### Author
+
+The authors are for producing the copy and all supporting documents, sources, images, and graphs. The author is responsible for delivering the research on time to ensure timely delivery of weekly updates to this website, a timely steady-state declaration, and on-time delivery of the final product submitted for approval to the network.&#x20;
+
+If multiple authors are nominated, one must be titled the Lead Researcher, acting as the project manager. The Lead is ultimately responsible for all duties listed above. The Lead Research is listed first on the publication and is credited with these additional responsibilities on the publication.
+
+#### Editor
+
+The editor is responsible for quality assurance. The editor reads each iteration of thought looking for logical fallacies, technical inaccuracies, grammar or spelling issues, confirmation bias, relevance to build3 scope, and other elements to ensure a minimum standard of care for the publication.
+
+The editor is responsible for merging all pull requests from the Author during the **Research Development** phase.
+
+### The Publication Process
 
 The path toward publication will move along according to this cycle:
 
