@@ -11,13 +11,13 @@ coverY: 0
 When applicable, each heading is a link to take you to the additional knowledgebase resource.
 {% endhint %}
 
-## [build3.foundation](https://www.build3.foundation)
+## membership: [build3.foundation](https://www.build3.foundation)
 
 This is the foundation landing page and the place where members can officially join the foundation. This page hosts forums, blogs, membership, and events.
 
-The build3.foundation page also serves as the main first-time-viewer landing page. A one-pager intended to articulate the mission succinctly.&#x20;
+The web page also serves as the main first-time-viewer landing page. A one-pager intended to articulate the mission succinctly.&#x20;
 
-## [**build3.network**](https://www.build3.network)
+## documentation: [**build3.network**](https://www.build3.network)
 
 The knowledgebase.
 
@@ -31,19 +31,19 @@ This is where the ideas start to organize and develop into the formal and final 
 
 Contributing is easy - just [join the discord](https://discord.com/invite/jJhp58PFA2) and ask how you can get involved!
 
-## **build3.dao**
+## **governance: build3.dao**
 
 Front end for build3 governance. There is no development on this yet, but eventually will be a React-based front-end application rendering the governance features of the build3 foundation.
 
 All our governance work is backend only. If you want to get involved with the front end,[ **let us know!**](https://discord.com/invite/jJhp58PFA2)****
 
-## **build3.x**
+## **block explorer: build3.x**
 
 Front end for build3 transactions. No development here, but the front-end would render whatever features the particular user needs to interact with the blockchain.
 
 All our transactions are backend only. If you want to get involved with the front end,[ **let us know!**](https://discord.com/invite/jJhp58PFA2)
 
-## [b**uild3.com**](http://build3.com)
+## funding with services: [b**uild3.com**](http://build3.com)
 
 This just forwards to [build3.foundation](http://build3.foundation) right now.&#x20;
 
@@ -51,10 +51,10 @@ The idea behind this domain is to provide a road map for future funding of conti
 
 The .com domain would be the home of paid features similar to the relationship between [wordpress.org](http://wordpress.org) and [wordpress.com](http://wordpress.com) or MongoDB vs MongoDB's Atlas service.
 
-## [**Discord**](https://discord.com/invite/jJhp58PFA2)
+## community: [**Discord**](https://discord.com/invite/jJhp58PFA2)
 
 The home of day-to-day communications about active research projects to spare the inbox.
 
-## [**GitHub**](https://github.com/build3foundation)
+## source code: [**GitHub**](https://github.com/build3foundation)
 
 Build3 repositories are on GitHub. We haven't made everything public yet - stay tuned!
