@@ -1,5 +1,5 @@
 ---
-description: A short list of proposed publications.
+description: A list of research topics and how to get involved in contributing.
 ---
 
 # 📢 Proposed Publications
