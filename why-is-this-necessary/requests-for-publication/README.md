@@ -31,7 +31,7 @@ Publications that do not receive an [author](./#author) and [editor](./#editor) 
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR1 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### Abstract
 
@@ -66,7 +66,7 @@ This publication will discuss the roadmap for implementing a public utility supe
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR2 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -92,7 +92,7 @@ A proposed solution to this problem involves removing or reducing the possibilit
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR3 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -120,7 +120,7 @@ And so we ask ourselves, what is the name for proof of authorship on a blockchai
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR5 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -140,7 +140,7 @@ This new cryptographic token will tie to the building identity and introduce new
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR5 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -166,7 +166,7 @@ This research aims to dig deeply into those advocating strongly against blockcha
 
 <details>
 
-<summary>Expand to Read More [Submitted 12 April 2022]</summary>
+<summary>PR6 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
