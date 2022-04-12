@@ -130,7 +130,7 @@ This paper is particularly interesting as it poses a great threat to Build3 clai
 
 </details>
 
-## Path Toward Publication
+## The Steps for Producing Publications
 
 The path toward publication will move along according to this cycle:
 
