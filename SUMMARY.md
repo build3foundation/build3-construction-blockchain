@@ -3,11 +3,11 @@
 ## Why is This Necessary?
 
 * [🌄 Introduction](README.md)
-* [ℹ Other Build3 Knowledgebases](why-is-this-necessary/other-build3-knowledgebases.md)
 * [🎯 How Blockchain Protects Public Safety](build3-overview/how-blockchain-protects-public-safety/README.md)
   * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
   * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
 * [📢 Pending Research Topics](build3-overview/proposed-publications.md)
+* [ℹ Other Build3 Knowledgebases](build3-overview/knowledgebase.md)
 
 ## Build3 Use Cases
 
