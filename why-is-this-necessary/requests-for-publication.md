@@ -9,9 +9,9 @@ coverY: 0
 
 ## Overview
 
-This page serves to curate the list of research requests and describe the publication workflows. Each item in the list of [publication requests](./#publication-request) is temporarily open to the public for the nomination of [Authorship Teams](./#what-is-an-authorship-team).&#x20;
+This page serves to curate the list of research requests and describe the publication workflows. Each item in the list of [publication requests](requests-for-publication.md#publication-request) is temporarily open to the public for the nomination of [Authorship Teams](requests-for-publication.md#what-is-an-authorship-team).&#x20;
 
-Join the [Build3 Foundation](http://www.build3.foundation) as a member (no fees) to participate in authorship or nomination. Only members are authorized to nominate [authors ](./#author)and [editors ](./#editor)for teams. Members may also submit more topics for consideration.&#x20;
+Join the [Build3 Foundation](http://www.build3.foundation) as a member (no fees) to participate in authorship or nomination. Only members are authorized to nominate [authors ](requests-for-publication.md#author)and [editors ](requests-for-publication.md#editor)for teams. Members may also submit more topics for consideration.&#x20;
 
 This page may be updated occasionally based on community input.
 
@@ -19,15 +19,15 @@ And without further adieu, let's look at the topics open for authorship nominati
 
 ## Publication Request List
 
-Publications that do not receive an [author](./#author) and [editor](./#editor) nomination are subject to expiry. New proposals will replace expired submissions.
+Publications that do not receive an [author](requests-for-publication.md#author) and [editor](requests-for-publication.md#editor) nomination are subject to expiry. New proposals will replace expired submissions.
 
 ### PR1 | Build3 Roadmap for Blockchain-Based Construction Supervision
 
 #### Authorship Team:
 
-**Author //** _\[awaiting nomination]_
+**Author //** Omer Bozok _\[accepted]_
 
-**Editor //** _\[awaiting nomination]_
+**Editor //** Kenneth Shultz _\[accpeted]_
 
 <details>
 
@@ -41,7 +41,7 @@ This publication will discuss the roadmap for implementing a public utility supe
 2. **Construction Submittals:** Cryptographically signed by the issuer and signed by the reviewer(s)
 3. **Permitting:** Permits signed on-chain by the submitting parties and signed by the approving authority having jurisdiction.
    1. Note: topic also may include thoughts about the International Building Code, Chapter 1, or other written codes that address permitting requirements. Nothing technically changes about permit applications and approval other than adding the blockchain's underlying storage and authorship mechanism.
-4. **Inspections:** Similar to permitting, but for proof of the inspection authority.
+4. **Inspections & Occupancy Certificates:** Similar to permitting, but for proof of the inspection authority.
 5. **Operations and Maintenance:**  This concept is starting to look much longer into the future but is worth thought and documentation. Is O\&M a standalone network interoperable through a Polkadot (or Polkadot-like) parachain? How does O\&M tie to the original record of construction supervision, permitting, and occupancy approval?
 6. **Property Identity:** The contributions from the build3 network related to proof of supervision would be identity markers about a specific property. Each renovation from start to end of a building would contain evidence of the supervision process that helped to secure the safety of the building itself.
    1. This newly found record of building history may tie into COBie reports and digital twin applications.&#x20;
@@ -74,7 +74,7 @@ Blockchain enthusiasts usually tout the benefits of decentralization. Unfortunat
 
 A proposed solution to this problem involves removing or reducing the possibility of exponential relationships from voting power. Non-transferrable voting tokens are issues based on a user's contribution to the network. You earn voting tokens as you review, submit, or otherwise interact with the system. These tokens are non-transferrable, would be burned when used for voting, and may expire after some time. This paper will explore these ideas and propose technical standards for developers to implement as a pallet on the chain. This voting token introduces a new token that is not nonfungible (NFT) nor technically wholly fungible.
 
-[Click here to view this project's documentation progress](labor-based-voting-authority.md)
+[Click here to view this project's documentation progress](research-development/labor-based-voting-authority.md)
 
 
 
@@ -195,7 +195,7 @@ An authorship team must contain a minimum of one author and one editor. There ma
 
 #### Authorship Team
 
-A team nominated and accepted to conduct research for a [Publication Request](./#publication-request) submitted by a Build3 Member. The Authorship Team must have a minimum of one [author ](./#author)and one [editor](./#editor).
+A team nominated and accepted to conduct research for a [Publication Request](requests-for-publication.md#publication-request) submitted by a Build3 Member. The Authorship Team must have a minimum of one [author ](requests-for-publication.md#author)and one [editor](requests-for-publication.md#editor).
 
 #### Author
 
@@ -231,7 +231,7 @@ Build3 Members nominate authors and editors for each publication; self-nominatio
 
 #### Step 3. Maximum Topics Listed Per Nomination Cycle
 
-Build3 limits the total publication requests to a maximum of ten for each nomination slot.
+Build3 limits the total publication requests to a maximum of 10 for each nomination slot.
 
 #### Step 4. Research Development
 

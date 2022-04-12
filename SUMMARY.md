@@ -6,8 +6,10 @@
 * [🎯 How Blockchain Protects Public Safety](build3-overview/how-blockchain-protects-public-safety/README.md)
   * [🗺 Old System, New World](build3-overview/how-blockchain-protects-public-safety/old-system-new-world.md)
   * [💡 A Working Solution](build3-overview/how-blockchain-protects-public-safety/a-working-solution.md)
-* [📢 Requests for Publication](why-is-this-necessary/requests-for-publication/README.md)
-  * [👷♀ Labor Based Voting Authority](why-is-this-necessary/requests-for-publication/labor-based-voting-authority.md)
+* [📢 Requests for Publication](why-is-this-necessary/requests-for-publication.md)
+* [🕦 Research Development](why-is-this-necessary/research-development/README.md)
+  * [👷♀ Labor Based Voting Authority](why-is-this-necessary/research-development/labor-based-voting-authority.md)
+  * [🛣 PR 1 | Build3 Roadmap for Blockchain-Based Construction Supervision](why-is-this-necessary/research-development/pr-1-or-build3-roadmap-for-blockchain-based-construction-supervision.md)
 * [ℹ Knowledgebases](why-is-this-necessary/knowledgebases.md)
 
 ## Build3 Use Cases
