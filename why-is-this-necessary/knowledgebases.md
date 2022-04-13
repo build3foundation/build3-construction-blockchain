@@ -58,3 +58,5 @@ The home of day-to-day communications about active research projects to spare th
 ## source code: [**GitHub**](https://github.com/build3foundation)
 
 Build3 repositories are on GitHub. We haven't made everything public yet - stay tuned!
+
+## external: [list of research papers](https://github.com/build3foundation/construction-blockchain-research/blob/main/README.md)
