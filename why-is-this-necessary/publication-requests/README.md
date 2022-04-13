@@ -11,7 +11,10 @@ coverY: 0
 
 This page serves to curate the list of research requests and describe the publication workflows. Each item in the list of [publication requests](./#publication-request) is temporarily open to the public for the nomination of [Authorship Teams](./#what-is-an-authorship-team).&#x20;
 
-Join the [Build3 Foundation](http://www.build3.foundation) as a member (no fees) to participate in authorship or nomination. Only members are authorized to nominate [authors ](./#author)and [editors ](./#editor)for teams. Members may also submit more topics for consideration.&#x20;
+To get started
+
+1. Join the [Build3 Foundation](http://www.build3.foundation) as a member (no fees) to participate in authorship or nomination. Only members are authorized to nominate or become [authors ](./#author)and [editors ](./#editor)for teams. Members may also submit more topics for consideration.&#x20;
+2. Join the [discord server](https://discord.com/invite/jJhp58PFA2) to get in touch with existing members.
 
 This page may be updated occasionally based on community input.
 
@@ -180,7 +183,7 @@ The Build3 Foundation moves all successful proposals to the Active Research page
 2. The authorship team is under no obligation to integrate the comments from the community.&#x20;
 3. For the benefit of context for observing Members, the authorship team will respond to all rejected comments with their reasoning.&#x20;
 
-#### **Step 5. Steady-Sate**
+#### **Step 5. Steady-State**
 
 The Authorship Team must declare their work in a Steady-State two or more weeks before the final submission deadline. The Authorship Team will not submit additional significant changes or conclusions for projects announced in Steady-State.&#x20;
 
