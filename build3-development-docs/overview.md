@@ -1,6 +1,6 @@
 ---
 description: What we're using and ways we're using it.
-cover: ../../.gitbook/assets/Black on White.png
+cover: ../.gitbook/assets/Black on White.png
 coverY: 0
 ---
 

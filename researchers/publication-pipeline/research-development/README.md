@@ -7,7 +7,7 @@ description: >-
 
 # 🐳 Research Development
 
-This is the active repository for recently accepted [Publication Requests](../). Research Development is the active playground of the Authorship Team where you are encouraged to watch and engage with the authors about their research.
+This is the active repository for recently accepted [Publication Requests](../publication-requests.md). Research Development is the active playground of the Authorship Team where you are encouraged to watch and engage with the authors about their research.
 
 What you'll find here are the early ideas, sketches, notes, and slow formation of ideas articulating into formal research. The next stop after this phase is conversion to a final technical white paper format. All Research Development projects are subject to Build3 Membership voting approval.&#x20;
 

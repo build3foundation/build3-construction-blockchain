@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# ℹ Knowledgebases
+# ℹ Important Links
 
 {% hint style="info" %}
 When applicable, each heading is a link to take you to the additional knowledgebase resource.

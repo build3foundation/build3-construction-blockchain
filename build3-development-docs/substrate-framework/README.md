@@ -3,7 +3,7 @@ description: Quick-start guide on substrate framework (before you dive in too fa
 coverY: 0
 ---
 
-# ⚗ Substrate Framework
+# ⚗ Notes about Substrate
 
 ## Summary
 

@@ -1,6 +1,6 @@
 ---
 description: The proposed frames to handle stamping engineered
-cover: ../../.gitbook/assets/Black on White.png
+cover: ../.gitbook/assets/Black on White.png
 coverY: 0
 layout: editorial
 ---
@@ -9,8 +9,8 @@ layout: editorial
 
 ## Licensing Boards and Working Groups
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/collective.md" %}
-[collective.md](../../developers/notes-about-substrate/prebuilt-pallets/collective.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/collective.md" %}
+[collective.md](../build3-development-docs/prebuilt-pallets/collective.md)
 {% endcontent-ref %}
 
 The licensing boards will be constructed from the `collective` pallet.&#x20;
@@ -51,13 +51,13 @@ It is the responsibility of the working group to establish a minimum standard of
 
 ## Professional Engineering License
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/identity.md" %}
-[identity.md](../../developers/notes-about-substrate/prebuilt-pallets/identity.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/identity.md" %}
+[identity.md](../build3-development-docs/prebuilt-pallets/identity.md)
 {% endcontent-ref %}
 
 The professional engineering license is modeled using the `identity` pallet. This pallet allows a user to put forth a proposed identity and ask for a review by any number of registrars.&#x20;
 
-![Example Identity Records Representing a Professional and their Active Licensure Authority](../../.gitbook/assets/engineer\_license\_example\_2.png)
+![Example Identity Records Representing a Professional and their Active Licensure Authority](../.gitbook/assets/engineer\_license\_example\_2.png)
 
 {% hint style="info" %}
 ## License Application and Issuance
@@ -77,8 +77,8 @@ Once the license (sub identity) is approved, the engineer uses this license addr
 
 ## Professional Supervision Record
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/contracts.md" %}
-[contracts.md](../../developers/notes-about-substrate/prebuilt-pallets/contracts.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/contracts.md" %}
+[contracts.md](../build3-development-docs/prebuilt-pallets/contracts.md)
 {% endcontent-ref %}
 
 The `contracts` pallet allows for the distribution of generic smart contracts which deploy into the blockchain and represent the professional interactions for each licensed activity on the network.
@@ -148,8 +148,8 @@ In the event of default, any queries to construction document status would&#x20;
 
 ## Off-Chain Worker
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/off-chain-worker.md" %}
-[off-chain-worker.md](../../developers/notes-about-substrate/prebuilt-pallets/off-chain-worker.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/off-chain-worker.md" %}
+[off-chain-worker.md](../build3-development-docs/prebuilt-pallets/off-chain-worker.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -162,8 +162,8 @@ A user submits files (or links to files) to check their authenticity. The off-ch
 
 ## Cross-Discipline Authorization
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/multisig.md" %}
-[multisig.md](../../developers/notes-about-substrate/prebuilt-pallets/multisig.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/multisig.md" %}
+[multisig.md](../build3-development-docs/prebuilt-pallets/multisig.md)
 {% endcontent-ref %}
 
 Creates an origin that requires multiple parties to sign before authorizing a transaction.&#x20;
@@ -176,8 +176,8 @@ Kicking off a project may require a signature from the sales member as well as f
 
 ## Offenses
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/offences.md" %}
-[offences.md](../../developers/notes-about-substrate/prebuilt-pallets/offences.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/offences.md" %}
+[offences.md](../build3-development-docs/prebuilt-pallets/offences.md)
 {% endcontent-ref %}
 
 This pallet tracks the reported offenses.&#x20;
@@ -198,8 +198,8 @@ _example: PermitZIP requires checklists as part of the process for every project
 
 ## Recovering Lost of Stolen Licenses
 
-{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/recovery.md" %}
-[recovery.md](../../developers/notes-about-substrate/prebuilt-pallets/recovery.md)
+{% content-ref url="../build3-development-docs/prebuilt-pallets/recovery.md" %}
+[recovery.md](../build3-development-docs/prebuilt-pallets/recovery.md)
 {% endcontent-ref %}
 
 Allows account recovery if lost credentials based on M-of-N social recovery.

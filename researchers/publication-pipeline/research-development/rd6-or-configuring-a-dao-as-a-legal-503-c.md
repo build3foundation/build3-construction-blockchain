@@ -1,4 +1,4 @@
-# 🥑 PR6 | Configuring a DAO as a Legal 503(c)
+# 🥑 RD6| Configuring a DAO as a Legal 503(c)
 
 
 

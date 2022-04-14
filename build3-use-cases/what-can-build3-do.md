@@ -2,7 +2,7 @@
 description: What can Build3 do for construction? Let's go over a few use-cases.
 ---
 
-# 🔭 Introduction
+# 🔭 Use Cases
 
 ## What to Expect
 
