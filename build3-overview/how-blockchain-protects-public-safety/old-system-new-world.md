@@ -14,7 +14,7 @@ It's odd to think that _**engineers of all people** are struggling to interface 
 
 _The rate of acceleration between licensed professional regulations and the remainder of the world is staggering._&#x20;
 
-_How_ This construction industry [productivity train wreck ](https://www.constructiondive.com/news/the-productivity-train-wreck-why-construction-struggles-to-compete-with/419450/)exposes us to increasing rates of risk.
+This construction industry [productivity train wreck ](https://www.constructiondive.com/news/the-productivity-train-wreck-why-construction-struggles-to-compete-with/419450/)exposes us to increasing rates of risk.
 
 {% hint style="warning" %}
 ## Applying for a Professional Engineering License Often Requires Envelopes and Paper Checks
