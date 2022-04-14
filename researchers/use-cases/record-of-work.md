@@ -23,8 +23,8 @@ There are three humans in this interaction.
 
 ### Staking (Gamifying Quality Control)
 
-{% content-ref url="../build3-development-docs/prebuilt-pallets/staking.md" %}
-[staking.md](../build3-development-docs/prebuilt-pallets/staking.md)
+{% content-ref url="../../developers/notes-about-substrate/prebuilt-pallets/staking.md" %}
+[staking.md](../../developers/notes-about-substrate/prebuilt-pallets/staking.md)
 {% endcontent-ref %}
 
 #### Rewards a Function of n Reviews

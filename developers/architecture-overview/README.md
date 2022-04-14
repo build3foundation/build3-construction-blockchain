@@ -1,10 +1,10 @@
 ---
 description: What we're using and ways we're using it.
-cover: ../.gitbook/assets/Black on White.png
+cover: ../../.gitbook/assets/Black on White.png
 coverY: 0
 ---
 
-# 🧑🚀 Overview
+# 🧑🚀 Architecture Overview
 
 ## The framework selected should be <mark style="color:green;">secure</mark>, <mark style="color:green;">permanent</mark>, <mark style="color:green;">immutable</mark>, <mark style="color:orange;">fast</mark>, <mark style="color:orange;">extensible</mark>, <mark style="color:orange;">modular</mark>, and <mark style="color:purple;">interoperable</mark>.
 
