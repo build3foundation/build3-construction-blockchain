@@ -76,9 +76,9 @@ This new cryptographic token will tie to the building identity and introduce new
 
 #### Authorship Team:
 
-**Author //** _\[awaiting nomination]_
+**Author // Ed Leite** \[awaiting acceptance]
 
-**Editor //** _\[awaiting nomination]_
+**Editor //** Kenneth Shultz
 
 <details>
 
