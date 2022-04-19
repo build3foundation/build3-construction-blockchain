@@ -1,6 +1,12 @@
-# 🥑 RD6| Configuring a DAO as a Legal 503(c)
+# 🥑 RD6 | Configuring a DAO as a Legal 503(c)
 
+#### Due Date:
 
+#### Authorship Team:
+
+**Author //** Phillip Brock _\[accepted]_
+
+**Editor //** Kenneth Shultz, PE _\[accepted]_
 
 ### **Abstract**
 

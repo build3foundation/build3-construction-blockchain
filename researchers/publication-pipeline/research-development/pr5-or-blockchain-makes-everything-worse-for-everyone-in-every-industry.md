@@ -1,42 +1,12 @@
----
-description: A list of research topics and how to contribute as an author or editor.
-cover: >-
-  https://images.unsplash.com/photo-1586943759341-be5595944989?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhdXRob3J8ZW58MHx8fHwxNjQ5NzYzMzE5&ixlib=rb-1.2.1&q=85
-coverY: 0
----
+# 👿 PR5 | Blockchain Makes Everything Worse for Everyone in Every Industry
 
-# 📢 Publication Requests
-
-## Overview
-
-This page serves to curate the list of research requests and describe the publication workflows. Each item in the list of [publication requests](publication-requests.md#publication-request) is temporarily open to the public for the nomination of [Authorship Teams](publication-requests.md#what-is-an-authorship-team).&#x20;
-
-To get started
-
-1. Join the [Build3 Foundation](http://www.build3.foundation) as a member (no fees) to participate in authorship or nomination. Only members are authorized to nominate or become [authors ](publication-requests.md#author)and [editors ](publication-requests.md#editor)for teams. Members may also submit more topics for consideration.&#x20;
-2. Join the [discord server](https://discord.com/invite/jJhp58PFA2) to get in touch with existing members.
-
-This page may be updated occasionally based on community input.
-
-And without further adieu, let's look at the topics open for authorship nomination:
-
-## Publication Request List
-
-Publications that do not receive an [author](publication-requests.md#author) and [editor](publication-requests.md#editor) nomination are subject to expiry. New proposals will replace expired submissions.
-
-If there are ten or fewer PR's listed below, that means Members can submit publication requests. Reach out on Discord if you have topics for research if the queue is open for ideas!
-
-### PR5 | Blockchain Makes Everything Worse for Everyone in Every Industry
+#### _Due Date:_
 
 #### Authorship Team:
 
 **Author // Ed Leite** \[awaiting acceptance]
 
 **Editor //** Kenneth Shultz _\[accepted]_
-
-<details>
-
-<summary>PR5 | Click to Expand | Submitted 12 April 2022</summary>
 
 ### **Abstract**
 
@@ -49,7 +19,3 @@ This research aims to dig deeply into those advocating strongly against blockcha
   * From the website, "Web3 is a web of ownership. Every object is owned by someone, every object can be traded to someone else."&#x20;
   * _The above claim is not necessarily valid. Build3 is about authorship, no ownership. This distinction is the fundamental difference between the criticisms (generally focused on flaws inherent to fintech and so claims typically reside in the claim that blockchain is the_ financialization _of all things). The distinction is vital: Build3 is concerned with authorship for construction supervision authority._
 * __[_**Web3 is Going Great**_ ](https://web3isgoinggreat.com)_- A curated timeline of fraud and scams in blockchain to emphasize the problem with scams and fraud._
-
-</details>
-
-****
