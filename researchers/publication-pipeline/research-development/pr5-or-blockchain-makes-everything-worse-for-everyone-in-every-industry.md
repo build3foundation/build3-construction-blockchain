@@ -4,7 +4,7 @@
 
 #### Authorship Team:
 
-**Author // Ed Leite** \[awaiting acceptance]
+**Author // Ed Leite** \[accepted]
 
 **Editor //** Kenneth Shultz _\[accepted]_
 
