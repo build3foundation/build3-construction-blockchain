@@ -23,6 +23,20 @@ This publication will discuss the roadmap for implementing a public utility supe
    2. The incremental move into this phase of adoption would introduce conversations about insurance and lending, two major parties in the industry which rely heavily on underwriting risk.
 7. **GIS Maps:** Proof of supervision of land survey work tied directly to the public GIS map systems. This use case is quite an abstraction from our original use case of professional supervision. GIS Maps is included as an example to help stretch out as far as we can reach for our purpose of identifying code compliance at the start of a building lifecycle and how that can extend throughout until the end of life. The objective is to postulate the demolition of an ideally chain-documented building. The land remains, but the evidence of the building is gone or nearly gone; however, the blockchain persists as a historical artifact.
 
+
+
+## The Traditional Legal Road
+
+One way to approach the road map is to consider how this could be adopted from a Statewide board perspective. This would require collaboration with the NSPE, AIA, ICC, and others that which have an existing respected relationship with regulatory bodies.
+
+
+
+## Ok - let's move this faster.
+
+PermitZIP being a bleeding-edge adopter, will provide much-needed test base information to help teach people how this works. There must be other organizations that would also be willing. An effort could be made to get 10 organizations with approximately 25 employees each also to volunteer to participate.
+
+
+
 ### Related Research
 
 * [Adoption of Blockchain Technology through Digital Twins in the Construction Industry 4.0: A PESTELS Approach](https://www.mdpi.com/2075-5309/11/12/670/pdf)
