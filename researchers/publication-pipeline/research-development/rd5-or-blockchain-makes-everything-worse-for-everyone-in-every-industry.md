@@ -36,7 +36,7 @@ On the other hand, DAO stands for Decentralized Autonomous Organizations and pla
 
 ## ED, I'm just throwing a few thoughts in here below...delete and change or add however you want - KMS
 
-### Proof of Stake
+### Governance Problems with Proof of Stake
 
 This is still a problem because, fundamentally, if you have the money, you can buy the network.&#x20;
 
@@ -48,23 +48,17 @@ More information is found here on Phil's current work on the topic:
 [rd2-or-labor-based-based-voting-authority.md](rd2-or-labor-based-based-voting-authority.md)
 {% endcontent-ref %}
 
-### Governance: Rethinking the Purpose of NFT
+### NFT apes are about ownership, NFT supervision is about authorship.
 
 Build3 is not about selling or owning digital documents. It is about proving who the author of the document was and if they were qualified to direct the engineering.
 
-### Speed of Transactions, Data Storage, Scaling
-
-Polkadot solves this quite a bit with parachain and parathreads and the framework of the substrate.
+{% content-ref url="rd3-or-authorship-not-ownership-re-understanding-and-nft.md" %}
+[rd3-or-authorship-not-ownership-re-understanding-and-nft.md](rd3-or-authorship-not-ownership-re-understanding-and-nft.md)
+{% endcontent-ref %}
 
 ### Build3 is an Underwriting Layer for the Industry
 
-It is inserted into a layer offering truth in digital transactions representing professional decisions.&#x20;
+Authorship proof has a value shared among regulators, lenders, and insurers when it comes to construction. Build3 does not disrupt any of the roles of the current actors. Build3 data serves as a layer to underwrite the truth for which each entity exists to serve or regulate: things that can be dangerous when designed by unqualified individuals.
 
-### Example: procore without build3 vs. procore with build3
 
-### Transportability (is that a word?)
-
-move around to anywhere with numbers
-
-substrate / polkadot solve the interoperability challenges
 
