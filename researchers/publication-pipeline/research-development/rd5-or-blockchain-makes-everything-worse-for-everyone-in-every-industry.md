@@ -48,7 +48,7 @@ More information is found here on Phil's current work on the topic:
 [rd2-or-labor-based-based-voting-authority.md](rd2-or-labor-based-based-voting-authority.md)
 {% endcontent-ref %}
 
-### Rethinking the Purpose of NFT
+### Governance: Rethinking the Purpose of NFT
 
 Build3 is not about selling or owning digital documents. It is about proving who the author of the document was and if they were qualified to direct the engineering.
 
@@ -60,7 +60,11 @@ Polkadot solves this quite a bit with parachain and parathreads and the framewor
 
 It is inserted into a layer offering truth in digital transactions representing professional decisions.&#x20;
 
-### Example: procore without build3 vs procore with build3
+### Example: procore without build3 vs. procore with build3
 
 ### Transportability (is that a word?)
+
+move around to anywhere with numbers
+
+substrate / polkadot solve the interoperability challenges
 
