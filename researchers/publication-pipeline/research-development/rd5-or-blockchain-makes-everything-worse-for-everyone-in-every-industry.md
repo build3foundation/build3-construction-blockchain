@@ -54,4 +54,10 @@ Build3 is not about selling or owning digital documents. It is about proving who
 
 ### Speed of Transactions, Data Storage, Scaling
 
-Polkadot solves this quite a bit with parachain and parathreads and the framework of substrate.
+Polkadot solves this quite a bit with parachain and parathreads and the framework of the substrate.
+
+### Build3 is an Underwriting Layer for the Industry
+
+It is inserted into a layer offering truth in digital transactions representing professional decisions.&#x20;
+
+### Example: procore without build3 vs procore with build3
