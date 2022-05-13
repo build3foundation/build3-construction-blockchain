@@ -61,3 +61,6 @@ Polkadot solves this quite a bit with parachain and parathreads and the framewor
 It is inserted into a layer offering truth in digital transactions representing professional decisions.&#x20;
 
 ### Example: procore without build3 vs procore with build3
+
+### Transportability (is that a word?)
+
