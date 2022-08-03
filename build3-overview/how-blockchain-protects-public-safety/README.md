@@ -18,7 +18,7 @@ Let's talk about NSPE a bit more. From their website, the vision is&#x20;
 
 > ...a world where the public can be confident that engineering decisions **affecting their lives** are made by **qualified and ethically accountable professionals**.
 
-We love this vision, and we agree. Being an engineer is more than showing off their pocket protector at parties! Every decision made impacts public safety quite often for 20 or more years! And so we agree: qualified and ethically accountable professionals are essential.
+We love this vision, and we agree. Being an engineer is more than showing off a pocket protector at parties! Every decision made impacts public safety quite often for 20 or more years! And so we agree: qualified and ethically accountable professionals are essential.
 
 ### NSPE's Core Values
 
@@ -39,7 +39,7 @@ This problem is compounded by the fact we are the [least efficient industry](htt
 
 How can we resolve the supply and scalability problem? It is precisely that problem that increases the risk to public welfare even further. How can that enormous demand pushing keep building often, cheap, and fast, be cooled down in a way that meets the professionals where they need to be: concerned with the public welfare?
 
-How can we design a system that will, given those conditions, be exhibit transparency to those willing to turn an ethically questionable blind eye?
+How can we design a system that will, given those conditions, exhibit transparency to those willing to turn an ethically questionable blind eye?
 
 How can we prove if the seal hasn't been taken and used by someone else fraudulently? How do we ensure the practitioner's competence in making a judgment in a given field?
 
@@ -73,4 +73,4 @@ Still, governing bodies treat violations as criminal acts. Let's take a look at 
 >
 > <mark style="color:orange;">**commits a Class B misdemeanor**</mark>.
 
-Blockchain technology can prove authorship of digital documents offering a form of digital DNA. This mechanism is not only useful but essential in due process for the industry. Continuing to enforce these regulations without blockchain is tantamount to a court dismissing the scientific relevance of DNA in criminal proceedings.
+Blockchain technology can prove the authorship of digital documents offering a form of digital DNA. This mechanism is helpful and _**essential in due process for the industry.**_ Continuing to enforce these regulations without blockchain is nearly equivalent to a court dismissing the scientific relevance of DNA in criminal proceedings.
