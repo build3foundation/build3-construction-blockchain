@@ -51,7 +51,7 @@ Still, governing bodies treat violations as criminal acts. Let's take a look at 
 
 #### Texas (1001.552)
 
-> **§ 1001.552. CRIMINAL PENALTY**. (a) A person commits an offense if the person: (1) <mark style="color:orange;">**engages in the practice of engineering without being licensed**</mark> or exempted from the licensing requirement under this chapter; (2) <mark style="color:orange;">**violates this chapter**</mark> with respect to the regulation of engineering; (3) presents or **attempts to use as the person's own the engineering license or seal of another;** or (4) gives false evidence of any kind to the board or a board member in obtaining an engineering license. (b) An offense under this section is a <mark style="color:orange;">**Class A misdemeanor**</mark>
+> **§ 1001.552. CRIMINAL PENALTY**. (a) A person commits an offense if the person: (1) <mark style="color:orange;">**engages in the practice of engineering without being licensed**</mark> or exempted from the licensing requirement under this chapter; (2) <mark style="color:orange;">**violates this chapter**</mark> with respect to the regulation of engineering; (3) presents or attempts to use as the person's own the engineering license or seal of another; or (4) gives false evidence of any kind to the board or a board member in obtaining an engineering license. (b) An offense under this section is a <mark style="color:orange;">**Class A misdemeanor**</mark>
 
 #### Indiana (IC 25-31-1-27)
 
