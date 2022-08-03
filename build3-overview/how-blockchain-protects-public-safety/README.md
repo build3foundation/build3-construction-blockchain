@@ -47,9 +47,7 @@ How can we prove if the seal hasn't been taken and used by someone else fraudule
 
 Long story short: it's not.&#x20;
 
-That doesn't stop governing bodies from employing severe punishment.
-
-Let's take a look at a few examples.
+Still, governing bodies treat violations as criminal acts. Let's take a look at a few examples:
 
 #### Texas (1001.552)
 
