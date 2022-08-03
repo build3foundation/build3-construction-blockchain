@@ -73,3 +73,4 @@ Still, governing bodies treat violations as criminal acts. Let's take a look at 
 >
 > <mark style="color:orange;">**commits a Class B misdemeanor**</mark>.
 
+Blockchain technology can prove authorship of digital documents offering a form of digital DNA. This mechanism is not only useful but essential in due process for the industry. Continuing to enforce these regulations without blockchain is tantamount to a court dismissing the scientific relevance of DNA in criminal proceedings.
